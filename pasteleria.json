@@ -1,0 +1,2195 @@
+[
+	{
+		"title": "Galletitas Mana Livianas Sabor Vainilla Pack X3 408 Gr",
+		"price": 729,
+		"discount": {
+			"text": "5% OFF",
+			"color": "GREEN",
+			"value": 5
+		},
+		"stock": "(11 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 689.9,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_659651-MLA51965197777_102022-O.webp"
+	},
+	{
+		"title": "Vainillas Pozo X 24 Unidades",
+		"price": 790,
+		"discount": {
+			"text": "20% OFF",
+			"color": "GREEN",
+			"value": 20
+		},
+		"stock": "(31 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 629.9,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_616194-MLA71608346808_092023-O.webp"
+	},
+	{
+		"title": "Bagley Chocolinas - 250 g - Unidad - 1",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"price": 664.99,
+		"discount": {
+			"text": "13% OFF",
+			"color": "GREEN",
+			"value": 13
+		},
+		"stock": "(56 disponibles)",
+		"description": "Deliciosas galletitas Chocolinas de 250 g | Fabricadas por Bagley, marca reconocida | Sabor a chocolate irresistible | Ideal para meriendas y momentos especiales | Fácil de transportar y almacenar | Perfectas para compartir con seres queridos",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Fabricante",
+								"text": "Bagley"
+							},
+							{
+								"id": "Marca",
+								"text": "Chocolinas"
+							},
+							{
+								"id": "Peso neto",
+								"text": "250 g"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Tipos de galletita",
+								"text": "Galletita"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 578.54,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_673690-MLA43815375417_102020-O.webp"
+	},
+	{
+		"title": "Galletitas De Agua Sandwich La Providencia Pack Familiar X5",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"price": 699.92,
+		"discount": {
+			"text": "8% OFF",
+			"color": "GREEN",
+			"value": 8
+		},
+		"stock": "(1211 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "La Providencia"
+							},
+							{
+								"id": "Peso neto",
+								"text": "505 g"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Es producto dietético",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Con sal",
+								"text": "Sí"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 643.92,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_616304-MLA54247275992_032023-O.webp"
+	},
+	{
+		"title": "Galletitas Surtido Bagley Paquete De 398 Grs",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"stock": "(77 disponibles)",
+		"description": "Dulces. | Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Fabricante",
+								"text": "Arcor"
+							},
+							{
+								"id": "Marca",
+								"text": "Bagley"
+							},
+							{
+								"id": "Nombre",
+								"text": "Surtido"
+							},
+							{
+								"id": "Sabor",
+								"text": "Surtido"
+							},
+							{
+								"id": "Peso neto",
+								"text": "398 g"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							}
+						]
+					},
+					{
+						"title": "Registros de establecimiento",
+						"attributes": [
+							{
+								"id": "Número de Registro Nacional de Establecimiento (RNE)",
+								"text": "02032291"
+							}
+						]
+					},
+					{
+						"title": "Registros de producto",
+						"attributes": [
+							{
+								"id": "Número de inscripción de producto (RNPA)",
+								"text": "02-714644"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Tipos de galletita",
+								"text": "Surtidas, Rellenas"
+							},
+							{
+								"id": "Características de la galletita",
+								"text": "Dulces"
+							},
+							{
+								"id": "Es producto dietético",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Con sal",
+								"text": "No"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 816,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_689289-MLA50957578316_082022-O.webp"
+	},
+	{
+		"title": "Galletitas Pepas Terepin Mermelada Dulce De Membrillo",
+		"stock": "(722 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Fabricante",
+								"text": "Terepin"
+							},
+							{
+								"id": "Marca",
+								"text": "Terepin"
+							},
+							{
+								"id": "Nombre",
+								"text": "Pepas con dulce de membrillo"
+							},
+							{
+								"id": "Sabor",
+								"text": "Dulce de membrillo"
+							},
+							{
+								"id": "Peso neto",
+								"text": "400 g"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "400 g"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Tipos de galletita",
+								"text": "Galletitas dulce"
+							},
+							{
+								"id": "Características de la galletita",
+								"text": "Membrillo"
+							},
+							{
+								"id": "Es producto dietético",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Con sal",
+								"text": "Sí"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.6,
+				"amount": 137,
+				"subtitle": "(137)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA1124776730?noIndex=true&access=view_all&modal=true",
+					"timeout": 0,
+					"duration": 0,
+					"track": {
+						"analytics_event": {
+							"section": "/VIP/ITEM/MAIN/",
+							"action": "VIEW_REVIEW_SHORT",
+							"category": "ITEM",
+							"label": "VIP"
+						}
+					}
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.6",
+				"formatted_rating_average": {
+					"text": "4.6"
+				},
+				"formatted_total": {
+					"text": "(137)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Son muy ricas.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Riquisomas.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "No me gustaron, todas pegoteadas.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 2,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 573.55,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_656023-MLA52025563943_102022-O.webp"
+	},
+	{
+		"title": "Galletitas Oreo Clásicas Agrupadas 4 Pack",
+		"price": 925.54,
+		"discount": {
+			"text": "20% OFF",
+			"color": "GREEN",
+			"value": 20
+		},
+		"stock": "(288 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 740.43,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_920523-MLA54742229097_032023-O.webp"
+	},
+	{
+		"title": "Galletitas Toddy Mini Con Chips De Chocolate - Mejor Precio",
+		"price": 268.7,
+		"discount": {
+			"text": "16% OFF",
+			"color": "GREEN",
+			"value": 16
+		},
+		"stock": "(119 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Fabricante",
+								"text": "Toddy"
+							},
+							{
+								"id": "Marca",
+								"text": "Toddy"
+							},
+							{
+								"id": "Nombre",
+								"text": "Toddy"
+							},
+							{
+								"id": "Sabor",
+								"text": "Chocolate"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "50 g"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Tipos de galletita",
+								"text": "Chips"
+							},
+							{
+								"id": "Características de la galletita",
+								"text": "Chips"
+							},
+							{
+								"id": "Es producto dietético",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Con sal",
+								"text": "Sí"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 223.92,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_666574-MLA70795557663_072023-O.webp"
+	},
+	{
+		"title": "Galletitas Dulces Anillos Terrabusi X 300 Gr",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"stock": "(371 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 522.51,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_669669-MLA50464478825_062022-O.webp"
+	},
+	{
+		"title": "Madalena Don Satur de vainilla con dulce de leche 200 g",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"stock": "(473 disponibles)",
+		"description": "Vainilla, rellenas. | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 551.11,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_922133-MLA43815486231_102020-O.webp"
+	},
+	{
+		"title": "Galletitas Dulces Rellenas Con Crema Oreo 354g",
+		"stock": "(219 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Fabricante",
+								"text": "Mondelez"
+							},
+							{
+								"id": "Marca",
+								"text": "Oreo"
+							},
+							{
+								"id": "Nombre",
+								"text": "Clásicas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Vainilla"
+							},
+							{
+								"id": "Peso neto",
+								"text": "354 g"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "354 g"
+							}
+						]
+					},
+					{
+						"title": "Registros de establecimiento",
+						"attributes": [
+							{
+								"id": "Número de Registro Nacional de Establecimiento (RNE)",
+								"text": "02-030252"
+							}
+						]
+					},
+					{
+						"title": "Registros de producto",
+						"attributes": [
+							{
+								"id": "Número de inscripción de producto (RNPA)",
+								"text": "02-523334"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Tipos de galletita",
+								"text": "cacao"
+							},
+							{
+								"id": "Características de la galletita",
+								"text": "Rellena"
+							},
+							{
+								"id": "Es producto dietético",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Con sal",
+								"text": "Sí"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.9,
+				"amount": 43,
+				"subtitle": "(43)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA1398012446?noIndex=true&access=view_all&modal=true",
+					"timeout": 0,
+					"duration": 0,
+					"track": {
+						"analytics_event": {
+							"section": "/VIP/ITEM/MAIN/",
+							"action": "VIEW_REVIEW_SHORT",
+							"category": "ITEM",
+							"label": "VIP"
+						}
+					}
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "5.0",
+				"aria_label": "Calificación 5 de 5",
+				"rating_average_formatted": "4.9",
+				"formatted_rating_average": {
+					"text": "4.9"
+				},
+				"formatted_total": {
+					"text": "(43)"
+				},
+				"rating_stars": {
+					"value": 5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Excelente.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Muy buenas y el paquete tiene la cantidad justa.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Deberían ser más saludables, rehacer la fórmula para tener menos octógonos.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 4,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 1299,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_757919-MLA54950243262_042023-O.webp"
+	},
+	{
+		"title": "Chocolate Taza Águila S/amargo X 1kg ",
+		"price": 6972,
+		"discount": {
+			"text": "10% OFF",
+			"color": "GREEN",
+			"value": 10
+		},
+		"stock": "(148 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 6274.8,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_659256-MLA50106555811_052022-O.webp"
+	},
+	{
+		"title": "Galletitas Pepitos Tripack X 3 U X 119 Gr",
+		"price": 1711.1,
+		"discount": {
+			"text": "20% OFF",
+			"color": "GREEN",
+			"value": 20
+		},
+		"stock": "(20 disponibles)",
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.7,
+				"amount": 50,
+				"subtitle": "(50)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA1104411245?noIndex=true&access=view_all&modal=true",
+					"timeout": 0,
+					"duration": 0,
+					"track": {
+						"analytics_event": {
+							"section": "/VIP/ITEM/MAIN/",
+							"action": "VIEW_REVIEW_SHORT",
+							"category": "ITEM",
+							"label": "VIP"
+						}
+					}
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.7",
+				"formatted_rating_average": {
+					"text": "4.7"
+				},
+				"formatted_total": {
+					"text": "(50)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Muy ricas 😋.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Buen producto, muy reconocido.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Excelente.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 1368.88,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_701717-MLA54760728684_032023-O.webp"
+	},
+	{
+		"title": "Galletita Okebon Leche  clásicas 273 g",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"stock": "(210 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.7,
+				"amount": 35,
+				"subtitle": "(35)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA16175868?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.7",
+				"formatted_rating_average": {
+					"text": "4.7"
+				},
+				"formatted_total": {
+					"text": "(35)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Lo barato sale caro.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 1,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Galletitas suaves y rendidoras.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "A mí pequeña le encanta.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 367.14,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_677061-MLA43815314710_102020-O.webp"
+	},
+	{
+		"title": "Galletitas Opera Rellenas Grande",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"price": 882,
+		"discount": {
+			"text": "10% OFF",
+			"color": "GREEN",
+			"value": 10
+		},
+		"stock": "(194 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Fabricante",
+								"text": "Arcor"
+							},
+							{
+								"id": "Marca",
+								"text": "Opera"
+							},
+							{
+								"id": "Nombre",
+								"text": "Galletitas Opera"
+							},
+							{
+								"id": "Sabor",
+								"text": "Naranja"
+							},
+							{
+								"id": "Peso neto",
+								"text": "220 g"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Pack"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "4"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Es producto dietético",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Con sal",
+								"text": "No"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 793.8,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_960839-MLA54248426782_032023-O.webp"
+	},
+	{
+		"title": "Bagley Galletitas De Salvado Original 3 Paquetes 507 Grs",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"price": 1232.21,
+		"discount": {
+			"text": "9% OFF",
+			"color": "GREEN",
+			"value": 9
+		},
+		"stock": "(105 disponibles)",
+		"description": "Salada, Salvado. | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 1108.99,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_605614-MLA46494824864_062021-O.webp"
+	},
+	{
+		"title": "Galletitas Oblea Frutilla Oblita Fresa - Mejor Precio",
+		"stock": "(1125 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 260.56,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_824805-MLA51455621850_092022-O.webp"
+	},
+	{
+		"title": "Galletitas Terepin Pepas Dulce De Membrillo Mermelada ",
+		"price": 347.5,
+		"discount": {
+			"text": "16% OFF",
+			"color": "GREEN",
+			"value": 16
+		},
+		"stock": "(2404 disponibles)",
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.6,
+				"amount": 31,
+				"subtitle": "(31)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA1125780975?noIndex=true&access=view_all&modal=true",
+					"timeout": 0,
+					"duration": 0,
+					"track": {
+						"analytics_event": {
+							"section": "/VIP/ITEM/MAIN/",
+							"action": "VIEW_REVIEW_SHORT",
+							"category": "ITEM",
+							"label": "VIP"
+						}
+					}
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.6",
+				"formatted_rating_average": {
+					"text": "4.6"
+				},
+				"formatted_total": {
+					"text": "(31)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Frescas y pasables.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 4,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Todo en orden.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Mucho mas ricas de lo que esperabamos por ese precio.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 289.55,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_748940-MLA52025640456_102022-O.webp"
+	},
+	{
+		"title": "Magdalena De Chocolate Valente Con Dulce De Leche",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"price": 639.1,
+		"discount": {
+			"text": "16% OFF",
+			"color": "GREEN",
+			"value": 16
+		},
+		"stock": "(59 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.9,
+				"amount": 10,
+				"subtitle": "(10)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA19825166?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "5.0",
+				"aria_label": "Calificación 5 de 5",
+				"rating_average_formatted": "4.9",
+				"formatted_rating_average": {
+					"text": "4.9"
+				},
+				"formatted_total": {
+					"text": "(10)"
+				},
+				"rating_stars": {
+					"value": 5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Súper ricas.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 532.55,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_988726-MLA49569297553_042022-O.webp"
+	},
+	{
+		"title": "Galletitas Oblea Oblita Vainilla Dulces - Mejor Precio",
+		"stock": "(190 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 260.56,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_801095-MLA51457405486_092022-O.webp"
+	},
+	{
+		"title": "Hogareñas Salvado Galletitas Pack 3 X 600 Gr",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"price": 1231.1,
+		"discount": {
+			"text": "10% OFF",
+			"color": "GREEN",
+			"value": 10
+		},
+		"stock": "(31 disponibles)",
+		"description": "Pack de 3 x 600 gr, ideal para compartir | Elaboradas por Arcor, marca de calidad | Sabor a salvado, opción saludable | Perfectas para desayunos y meriendas | No son libres de gluten | Contenido de sal para realzar sabor",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Fabricante",
+								"text": "Arcor"
+							},
+							{
+								"id": "Marca",
+								"text": "Hogareñas"
+							},
+							{
+								"id": "Nombre",
+								"text": "Hogareñas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Salvado"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Tipos de galletita",
+								"text": "Salvado"
+							},
+							{
+								"id": "Características de la galletita",
+								"text": "Salvado"
+							},
+							{
+								"id": "Es producto dietético",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Con sal",
+								"text": "Sí"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.8,
+				"amount": 28,
+				"subtitle": "(28)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA19900231?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "5.0",
+				"aria_label": "Calificación 5 de 5",
+				"rating_average_formatted": "4.8",
+				"formatted_rating_average": {
+					"text": "4.8"
+				},
+				"formatted_total": {
+					"text": "(28)"
+				},
+				"rating_stars": {
+					"value": 5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Sabrosas y crocantes las hogareñas salvado.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Son ricas, bah, a mí me gustan. Bueno, son galletitas, qué más se puede decir. Son más sanas y livianas que el resto, lo que ya es un decir.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Excelente calidad.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 1107.99,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_955224-MLA45657831699_042021-O.webp"
+	},
+	{
+		"title": "Galletitas Cracker Rc Sin Sal 450g X10un- Kiosco Full7x24",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"stock": "(81 disponibles)",
+		"description": "Cracker. | Producto dietético. | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 784.3,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_863554-MLA43229370550_082020-O.webp"
+	},
+	{
+		"title": "Galletitas Smookies Snacks Bebe Pera 150 Gr",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"price": 1283.68,
+		"discount": {
+			"text": "14% OFF",
+			"color": "GREEN",
+			"value": 14
+		},
+		"stock": "(51 disponibles)",
+		"description": "para bebés. | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 1102,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_916164-MLA51921279289_102022-O.webp"
+	},
+	{
+		"title": "Galletitas Mana Sabor Vainilla Pack X 3 Pack Chico",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"price": 958.67,
+		"discount": {
+			"text": "10% OFF",
+			"color": "GREEN",
+			"value": 10
+		},
+		"stock": "(83 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 862.8,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_960532-MLA52267693191_112022-O.webp"
+	},
+	{
+		"title": "Galletitas Macucas Sabor Chocolate Relleno Vainilla Tripack",
+		"price": 1195.54,
+		"discount": {
+			"text": "9% OFF",
+			"color": "GREEN",
+			"value": 9
+		},
+		"stock": "(222 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 1075.99,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_946111-MLA53643773762_022023-O.webp"
+	},
+	{
+		"title": "Vainillas Mauri Galletitas Dulces Blandas - Mejor Precio",
+		"stock": "(242 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 183.57,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_836765-MLA54895754905_042023-O.webp"
+	},
+	{
+		"title": "Galletitas Bagley Criollitas Original 499gr",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"price": 1015,
+		"discount": {
+			"text": "10% OFF",
+			"color": "GREEN",
+			"value": 10
+		},
+		"stock": "(502 disponibles)",
+		"description": "Crackers. | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 913.5,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_772324-MLA53691430493_022023-O.webp"
+	},
+	{
+		"title": "Galletitas Sonrisas Bagley Tradicionales Frambuesa 324 G",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"price": 1066.66,
+		"discount": {
+			"text": "10% OFF",
+			"color": "GREEN",
+			"value": 10
+		},
+		"stock": "(535 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 959.99,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_700505-MLA54817178461_042023-O.webp"
+	},
+	{
+		"title": "Pan Tostado 100 % Integral Riera X 200 Gr",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"price": 637.8,
+		"discount": {
+			"text": "16% OFF",
+			"color": "GREEN",
+			"value": 16
+		},
+		"stock": "(396 disponibles)",
+		"description": "Tostadas Crocantes. | Producto dietético. | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 531.47,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_875369-MLA43485854996_092020-O.webp"
+	},
+	{
+		"title": "Cerealitas Tostadas Arroz X 160 Gr",
+		"price": 877.77,
+		"discount": {
+			"text": "10% OFF",
+			"color": "GREEN",
+			"value": 10
+		},
+		"stock": "(43 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 789.99,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_756449-MLA47588758764_092021-O.webp"
+	},
+	{
+		"title": "Galletitas Kesitas Bagley Queso Snack Salado - Mejor Precio",
+		"stock": "(138 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Fabricante",
+								"text": "Arcor"
+							},
+							{
+								"id": "Marca",
+								"text": "Bagley"
+							},
+							{
+								"id": "Nombre",
+								"text": "Kesitas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Queso"
+							},
+							{
+								"id": "Peso neto",
+								"text": "125 g"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Tipos de galletita",
+								"text": "Saladas"
+							},
+							{
+								"id": "Características de la galletita",
+								"text": "Salado,Snack"
+							},
+							{
+								"id": "Es producto dietético",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Con sal",
+								"text": "Sí"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.8,
+				"amount": 16,
+				"subtitle": "(16)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA1133188584?noIndex=true&access=view_all&modal=true",
+					"timeout": 0,
+					"duration": 0,
+					"track": {
+						"analytics_event": {
+							"section": "/VIP/ITEM/MAIN/",
+							"action": "VIEW_REVIEW_SHORT",
+							"category": "ITEM",
+							"label": "VIP"
+						}
+					}
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "5.0",
+				"aria_label": "Calificación 5 de 5",
+				"rating_average_formatted": "4.8",
+				"formatted_rating_average": {
+					"text": "4.8"
+				},
+				"formatted_total": {
+					"text": "(16)"
+				},
+				"rating_stars": {
+					"value": 5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Rico y poco.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Excelente relación precio-calidad.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Muy buen producto y buen precio.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 553.2,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_791298-MLA54074531000_022023-O.webp"
+	},
+	{
+		"title": "Galletitas Lincoln clasica chica 153g",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"stock": "(17 disponibles)",
+		"description": "",
+		"reviewsInfo": {},
+		"offer_price": 999,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_763313-MLA43815592123_102020-O.webp"
+	},
+	{
+		"title": "Snack Well Merengue Proteico Sin Azucar X 70 Gr",
+		"stock": "(5 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 1537,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_949858-MLA47415532586_092021-O.webp"
+	},
+	{
+		"title": "Galletitas Oreo Milka bañadas chocolate con leche 119g",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"stock": "(89 disponibles)",
+		"description": "Dulces, Galletitas. | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 1207.27,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_608219-MLA46210484897_052021-O.webp"
+	},
+	{
+		"title": "Cmc Carboximetilcelulosa Aditivo Alimenticio Industrial 1 Kg",
+		"stock": "(28 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 14970,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_777491-MLA47047933617_082021-O.webp"
+	},
+	{
+		"title": "Galletitas Pepas Trio Membrillo Mermelada Galletas Dulces",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"price": 828,
+		"discount": {
+			"text": "16% OFF",
+			"color": "GREEN",
+			"value": 16
+		},
+		"stock": "(599 disponibles)",
+		"description": "Deliciosas galletitas Pepas con relleno de membrillo y mermelada | Ideal para desayunos, meriendas y antojos dulces | Marca Trío, reconocida por su calidad y sabor | Un pack generoso para compartir con familia y amigos | No dietéticas, pero perfectas para darse un gusto ocasional | Disfruta del auténtico sabor argentino en cada mordida",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Fabricante",
+								"text": "Trio"
+							},
+							{
+								"id": "Marca",
+								"text": "Trío"
+							},
+							{
+								"id": "Nombre",
+								"text": "Pepas"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Es producto dietético",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.6,
+				"amount": 52,
+				"subtitle": "(52)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA19734063?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.6",
+				"formatted_rating_average": {
+					"text": "4.6"
+				},
+				"formatted_total": {
+					"text": "(52)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Poco membrillo, mucha masa. Definitivamente vuelvo a las terepin. Estás no le llegan ni a los talones. Precio calidad están bien.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 3,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Muy buenas siempre compro esta marca.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Es lo que esperaba.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 690,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_687049-MLA51442342331_092022-O.webp"
+	},
+	{
+		"title": "Oferta! Cintitas Crocantes Tostex Talitas Sabor Jamon 125g",
+		"price": 748.08,
+		"discount": {
+			"text": "50% OFF",
+			"color": "GREEN",
+			"value": 50
+		},
+		"stock": "(126 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 374.04,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_608882-MLA54970889842_042023-O.webp"
+	},
+	{
+		"title": "Galletitas De Agua Granix Salvado Crackers - Mejor Precio",
+		"stock": "(80 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 445.32,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_721884-MLA70864229357_082023-O.webp"
+	},
+	{
+		"title": "Galletitas Smams Crackers Clásicas 150gr X1u | Sin Tacc",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"price": 1210,
+		"discount": {
+			"text": "20% OFF",
+			"color": "GREEN",
+			"value": 20
+		},
+		"stock": "(86 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.5,
+				"amount": 20,
+				"subtitle": "(20)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA19733764?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.5",
+				"formatted_rating_average": {
+					"text": "4.5"
+				},
+				"formatted_total": {
+					"text": "(20)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Deliciosas. Verdaderas galletitas de agua, sin taac.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Me encantan y son saludables! mi vicio en galletitas! gracias.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Genial.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 965,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_742098-MLA46954394630_082021-O.webp"
+	},
+	{
+		"title": "Galletita Club Social jamón Display x 6 Uni",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"price": 877.77,
+		"discount": {
+			"text": "19% OFF",
+			"color": "GREEN",
+			"value": 19
+		},
+		"stock": "(35 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 702.22,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_836905-MLA43815351325_102020-O.webp"
+	},
+	{
+		"title": "Galletitas Plant Baked Vainilla  Crudencio 125g",
+		"stock": "(10 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 1017.93,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_998406-MLA52905696512_122022-O.webp"
+	},
+	{
+		"title": "Galletitas Leiva Dulces Sabor Leche 260 Grs",
+		"stock": "(100 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 503,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_780929-MLA50513269353_062022-O.webp"
+	},
+	{
+		"title": "Galletitas Talitas Don Satur Grisines - Mejor Precio",
+		"price": 614.4,
+		"discount": {
+			"text": "16% OFF",
+			"color": "GREEN",
+			"value": 16
+		},
+		"stock": "(901 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Fabricante",
+								"text": "Don Satur"
+							},
+							{
+								"id": "Marca",
+								"text": "Don Satur"
+							},
+							{
+								"id": "Nombre",
+								"text": "Talitas"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "140 g"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Tipos de galletita",
+								"text": "Grisines"
+							},
+							{
+								"id": "Características de la galletita",
+								"text": "Talitas"
+							},
+							{
+								"id": "Es producto dietético",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Con sal",
+								"text": "Sí"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.4,
+				"amount": 17,
+				"subtitle": "(17)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA1198276502?noIndex=true&access=view_all&modal=true",
+					"timeout": 0,
+					"duration": 0,
+					"track": {
+						"analytics_event": {
+							"section": "/VIP/ITEM/MAIN/",
+							"action": "VIEW_REVIEW_SHORT",
+							"category": "ITEM",
+							"label": "VIP"
+						}
+					}
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.4",
+				"formatted_rating_average": {
+					"text": "4.4"
+				},
+				"formatted_total": {
+					"text": "(17)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Muy ricos.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 4,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Excelente, muy rico. No voten peronismo.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 511.96,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_702603-MLA51985496355_102022-O.webp"
+	},
+	{
+		"title": "Cachafaz Integrales - Avena con chips de chocolate - 225 g - Unidad - 1",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"price": 904,
+		"discount": {
+			"text": "13% OFF",
+			"color": "GREEN",
+			"value": 13
+		},
+		"stock": "(40 disponibles)",
+		"description": "Galletitas integrales de avena para una opción saludable | Deliciosos chips de chocolate en cada bocado | Peso neto de 225 g, ideal para disfrutar en cualquier momento | Marca Cachafaz, reconocida por su calidad y sabor | Perfectas para desayunos, meriendas o snacks | Aportan fibra y nutrientes esenciales para tu organismo",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Fabricante",
+								"text": "Cachafaz"
+							},
+							{
+								"id": "Marca",
+								"text": "Cachafaz"
+							},
+							{
+								"id": "Nombre",
+								"text": "Integrales"
+							},
+							{
+								"id": "Sabor",
+								"text": "Avena con chips de chocolate"
+							},
+							{
+								"id": "Peso neto",
+								"text": "225 g"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Tipos de galletita",
+								"text": "Galletita"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 786,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_844609-MLA43815310910_102020-O.webp"
+	},
+	{
+		"title": "Galletitas Kokis Cañoncitos De Membrillo Dulce- Mejor Precio",
+		"price": 1082.7,
+		"discount": {
+			"text": "16% OFF",
+			"color": "GREEN",
+			"value": 16
+		},
+		"stock": "(129 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Fabricante",
+								"text": "Kokis"
+							},
+							{
+								"id": "Marca",
+								"text": "Galletitas Kokis"
+							},
+							{
+								"id": "Nombre",
+								"text": "Cañoncitos"
+							},
+							{
+								"id": "Sabor",
+								"text": "Membrillo"
+							},
+							{
+								"id": "Peso neto",
+								"text": "500 g"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Tipos de galletita",
+								"text": "Dulce"
+							},
+							{
+								"id": "Características de la galletita",
+								"text": "Membrillo"
+							},
+							{
+								"id": "Es producto dietético",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Con sal",
+								"text": "Sí"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.5,
+				"amount": 20,
+				"subtitle": "(20)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA1135687726?noIndex=true&access=view_all&modal=true",
+					"timeout": 0,
+					"duration": 0,
+					"track": {
+						"analytics_event": {
+							"section": "/VIP/ITEM/MAIN/",
+							"action": "VIEW_REVIEW_SHORT",
+							"category": "ITEM",
+							"label": "VIP"
+						}
+					}
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.5",
+				"formatted_rating_average": {
+					"text": "4.5"
+				},
+				"formatted_total": {
+					"text": "(20)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Muy recomendable.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Me encantaron, sin duda volvería a comprar.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Buen producto.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 3,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 902.27,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_871648-MLA70862963151_082023-O.webp"
+	},
+	{
+		"title": "Polvo Para Hornear (sin Tacc) Dicomere X 250g",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Repostería y Pastelería",
+			"Repostería",
+			"Polvos para Hornear"
+		],
+		"stock": "(72 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 1463,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_919360-MLA51144100000_082022-O.webp"
+	},
+	{
+		"title": "Magdalena Valente Marmolada 200g - Ciudad Cotillón Valente Magdalenas - Marmolado - 200 g - Unidad - 1 - 25 g",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"stock": "(40 disponibles)",
+		"description": "Delicioso sabor marmolado de chocolate y vainilla | Paquete de 200g, ideal para compartir | Contiene 8 unidades de 25g cada una | Magdalenas tradicionales, no dietéticas | Producto no libre de gluten | Fabricadas por Valente, garantía de calidad",
+		"reviewsInfo": {},
+		"offer_price": 532.55,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_647942-MLU69155208666_042023-O.webp"
+	},
+	{
+		"title": "Galletitas Crackers Shiva Mix De Semillas 100 Gramos",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Galletitas"
+		],
+		"price": 844.43,
+		"discount": {
+			"text": "9% OFF",
+			"color": "GREEN",
+			"value": 9
+		},
+		"stock": "(32 disponibles)",
+		"description": "NA. | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 759.99,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_746505-MLA48010698255_102021-O.webp"
+	}
+]

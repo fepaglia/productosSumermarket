@@ -1,0 +1,237 @@
+[
+	{
+		"title": "Levadura Nutricional En Copos Sin Tacc Titan 200 Gr",
+		"stock": "(191 disponibles)",
+		"attributes": [
+					{
+						"id": "Modelo",
+						"text": "levadura de cerveza sin TACC"
+					},
+					{
+						"id": "Unidades por envase",
+						"text": "1"
+					},
+					{
+						"id": "Peso de la unidad",
+						"text": "200 g"
+					},
+					{
+						"id": "Formato de la levadura",
+						"text": "copos"
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.9,
+				"amount": 59,
+				"subtitle": "(59)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA1177791837?noIndex=true&access=view_all&modal=true",
+					"timeout": 0,
+					"duration": 0,
+					"track": {
+						"analytics_event": {
+							"section": "/VIP/ITEM/MAIN/",
+							"action": "VIEW_REVIEW_SHORT",
+							"category": "ITEM",
+							"label": "VIP"
+						}
+					}
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "5.0",
+				"aria_label": "Calificación 5 de 5",
+				"rating_average_formatted": "4.9",
+				"formatted_rating_average": {
+					"text": "4.9"
+				},
+				"formatted_total": {
+					"text": "(59)"
+				},
+				"rating_stars": {
+					"value": 5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "De muy buena calidad, hace años que lo consumo.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "La probe hace pocos dias tiene buen gusto a queso. Me la recomendó mi nutricionista.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Recién lo empiezo a consumir y no sé si mejoró mí nutrición, pero esperaba que fuera horrible y la verdad que está bastante bien.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 3860,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_978208-MLA52297273658_112022-O.webp"
+	},
+	{
+		"title": "Levadura Levex Seca Instantanea 50 Sobres De 10 Grs Cada Uno",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Levaduras"
+		],
+		"stock": "(3 disponibles)",
+		"description": "Calidad garantizada con la marca Levex | 50 sobres de 10 gramos para uso individual | Fácil de usar y mezclar en tus recetas | Fermentación rápida y uniforme | Ideal para panes, postres y más | Presentación en polvo para mejor conservación",
+		"attributes": [
+					{
+						"id": "Modelo",
+						"text": "Levadura Instantanea Seca"
+					},
+					{
+						"id": "Unidades por envase",
+						"text": "50"
+					},
+					{
+						"id": "Peso de la unidad",
+						"text": "10 g"
+					},
+					{
+						"id": "Peso neto",
+						"text": "500 g"
+					},
+					{
+						"id": "Formato de la levadura",
+						"text": "Polvo"
+					},
+					{
+						"id": "Conservación del producto",
+						"text": "Temperatura ambiente"
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.7,
+				"amount": 44,
+				"subtitle": "(44)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA21090803?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.7",
+				"formatted_rating_average": {
+					"text": "4.7"
+				},
+				"formatted_total": {
+					"text": "(44)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Es una buena compra , te sale más barato que ir a comprando levadura por sobre. Tiene larga vigencia y no necesita heladera. Yo que hago pan , me resulta súper cómodo tener los sobres siempre en la alacena.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Todo impecable.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "La levadura es fresca y fácil de utilizar.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 4,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 5808,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_774049-MLA51479004707_092022-O.webp"
+	},
+	{
+		"title": "Levadura Levex Seca Instantanea 50 Sobres X 10g C/u Sin Tacc",
+		"stock": "(66 disponibles)",
+		"attributes":  [
+					{
+						"id": "Modelo",
+						"text": "Levadura Instantanea Seca"
+					},
+					{
+						"id": "Unidades por envase",
+						"text": "50"
+					},
+					{
+						"id": "Peso de la unidad",
+						"text": "10 g"
+					},
+					{
+						"id": "Peso neto",
+						"text": "500 g"
+					},
+					{
+						"id": "Formato de la levadura",
+						"text": "Seca"
+					},
+					{
+						"id": "Conservación del producto",
+						"text": "Temperatura ambiente"
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 9998,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_974859-MLA52559880463_112022-O.webp"
+	}
+]

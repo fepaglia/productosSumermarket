@@ -1,0 +1,3496 @@
+[
+	{
+		"title": "Fideos Matarazzo Tallarín N°15 X 500 Gr",
+		"price": 483.1,
+		"discount": {
+			"text": "7% OFF",
+			"color": "GREEN",
+			"value": 7
+		},
+		"stock": "(392 disponibles)",
+		"attributes": [
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Pastas"
+							},
+							{
+								"id": "Sabor de la masa",
+								"text": "Regular"
+							},
+							{
+								"id": "Nombre de la pasta",
+								"text": "Fideos"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Tallarin"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Pasta"
+							},
+							{
+								"id": "Ingrediente base",
+								"text": "Trigo candeal"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Peso neto",
+								"text": "500 g"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Tiempo de cocción",
+								"text": "7 h"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.5,
+				"amount": 6,
+				"subtitle": "(6)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA1367675985?noIndex=true&access=view_all&modal=true",
+					"timeout": 0,
+					"duration": 0,
+					"track": {
+						"analytics_event": {
+							"section": "/VIP/ITEM/MAIN/",
+							"action": "VIEW_REVIEW_SHORT",
+							"category": "ITEM",
+							"label": "VIP"
+						}
+					}
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.5",
+				"formatted_rating_average": {
+					"text": "4.5"
+				},
+				"formatted_total": {
+					"text": "(6)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Muy ricos. No sé pegan.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 4,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 449.28,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_884169-MLA69117468071_042023-O.webp"
+	},
+	{
+		"title": "Nutella pasta de avellana 350g",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Mermeladas, Dulces y Miel",
+			"Cremas de Avellanas"
+		],
+		"stock": "(25 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 1411.42,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_695699-MLA49936917469_052022-O.webp"
+	},
+	{
+		"title": "Pasta De Mani Natural Mani King X 485g Sin Tacc",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Mermeladas, Dulces y Miel",
+			"Mantequillas de Maní"
+		],
+		"stock": "(1015 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 2075.39,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_897562-MLA49076098557_022022-O.webp"
+	},
+	{
+		"title": "Fideos Spaghetti libre de gluten sin tacc Matarazzo 500g",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Pastas"
+		],
+		"price": 1999,
+		"discount": {
+			"text": "35% OFF",
+			"color": "GREEN",
+			"value": 35
+		},
+		"stock": "(27 disponibles)",
+		"description": "Ingrediente principal: harina de maiz y arroz sin tacc. | Tiempo de cocción: 7 h.",
+		"attributes": [
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Matarazzo"
+							},
+							{
+								"id": "Línea",
+								"text": "Pastas"
+							},
+							{
+								"id": "Sabor de la masa",
+								"text": "Regular"
+							},
+							{
+								"id": "Nombre de la pasta",
+								"text": "Spaghetti Matarazzo Sin Tacc x 500g"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Spaghetti"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Regular"
+							},
+							{
+								"id": "Ingrediente base",
+								"text": "Harina de maiz y arroz sin TACC"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Peso neto",
+								"text": "500 g"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "Sí"
+							},
+							{
+								"id": "Tiempo de cocción",
+								"text": "7 h"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 1299.35,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_600824-MLA43633807711_092020-O.webp"
+	},
+	{
+		"title": "Pasta De Mani Natural Mani King X 3kg",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Mermeladas, Dulces y Miel",
+			"Mantequillas de Maní"
+		],
+		"price": 10623.26,
+		"discount": {
+			"text": "34% OFF",
+			"color": "GREEN",
+			"value": 34
+		},
+		"stock": "(16 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Maní King"
+							},
+							{
+								"id": "Línea",
+								"text": "Pasta de mani"
+							},
+							{
+								"id": "Peso neto",
+								"text": "3 kg"
+							},
+							{
+								"id": "Sabor",
+								"text": "Natural"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Pote"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Formato de la mantequilla de maní",
+								"text": "Crema"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 5,
+				"amount": 12,
+				"subtitle": "(12)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA24846667?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "5.0",
+				"aria_label": "Calificación 5 de 5",
+				"rating_average_formatted": "5.0",
+				"formatted_rating_average": {
+					"text": "5.0"
+				},
+				"formatted_total": {
+					"text": "(12)"
+				},
+				"rating_stars": {
+					"value": 5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Siempre comprabamos el de 485gr en la dietetica del barrio, pero cada vez q ibamos subia el valor de a cientos, asiq optamos x comprar el de 3kg para ganarle a la inflacion y fue una buena eleccion.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Buena calidad lo recomiendo.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Excelente producto.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 6905.12,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_706924-MLU70662052621_072023-O.webp"
+	},
+	{
+		"title": "Fideos Tirabuzon Verizzia 500gr",
+		"price": 299,
+		"discount": {
+			"text": "10% OFF",
+			"color": "GREEN",
+			"value": 10
+		},
+		"stock": "(334 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "VERIZZIA"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Fideos Secos"
+							},
+							{
+								"id": "Nombre de la pasta",
+								"text": "Fideos"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "TIRABUZON"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							}
+						]
+					}
+		],
+		"reviewsInfo": {},
+		"offer_price": 269.1,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_626067-MLA52943109430_122022-O.webp"
+	},
+	{
+		"title": "Fideos Spaghetti Pastasole 500gr",
+		"stock": "(13 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Pastasole"
+							}
+						]
+					},
+					{
+						"title": "Registros de establecimiento",
+						"attributes": [
+							{
+								"id": "Número de Registro Nacional de Establecimiento (RNE)",
+								"text": "02-034679"
+							}
+						]
+					},
+					{
+						"title": "Registros de producto",
+						"attributes": [
+							{
+								"id": "Número de inscripción de producto (RNPA)",
+								"text": "02-717645"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Fideos"
+							},
+							{
+								"id": "Sabor de la masa",
+								"text": "Pasta"
+							},
+							{
+								"id": "Nombre de la pasta",
+								"text": "Spaghetti"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Spaghetti"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Pasta"
+							},
+							{
+								"id": "Ingrediente base",
+								"text": "Semola de trigo candeal"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Peso neto",
+								"text": "500 g"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 362,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_936822-MLA71105183927_082023-O.webp"
+	},
+	{
+		"title": "Pasta De Maní Crunchy Viene Con Pedacitos De Mani ! X 350gr",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Mermeladas, Dulces y Miel",
+			"Mantequillas de Maní"
+		],
+		"price": 1910,
+		"discount": {
+			"text": "10% OFF",
+			"color": "GREEN",
+			"value": 10
+		},
+		"stock": "(28 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 1719,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_822537-MLU70353898736_072023-O.webp"
+	},
+	{
+		"title": "Nutella Pasta De Avellanas Y Cacao X 3 Kg",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Mermeladas, Dulces y Miel",
+			"Cremas de Avellanas"
+		],
+		"price": 18694,
+		"discount": {
+			"text": "13% OFF",
+			"color": "GREEN",
+			"value": 13
+		},
+		"stock": "(16 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Nutella"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Nutella"
+							},
+							{
+								"id": "Sabores",
+								"text": "Avellanas"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "3 kg"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Pote"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.9,
+				"amount": 143,
+				"subtitle": "(143)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA20004597?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "5.0",
+				"aria_label": "Calificación 5 de 5",
+				"rating_average_formatted": "4.9",
+				"formatted_rating_average": {
+					"text": "4.9"
+				},
+				"formatted_total": {
+					"text": "(143)"
+				},
+				"rating_stars": {
+					"value": 5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Ta rico, lo único malo es q mi novia se comió los 3k de una u le dió una patada al hígado y la tuvieron q internar, pero teniendo esa única precaución creo q el producto es exelente y cumple todas las expectativas y requisitos, la verdad 10/10.\nPd: ella está bien.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Tremendo!!!la mejor comprá el producto vino en una caja de fabrica la que evita que se rompa y con precintos de seguridad. 100%original vamos a volver acomprar 💪🏻.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "3 kg de nutella hermano! para lo único que podés usar este espacio es para pedir donantes de hígado compatibles! no necesito nada más! ya tengo la parte dulce cubierta para todo lo que resta del año. Gracias.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 16077,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_762088-MLA47713492343_092021-O.webp"
+	},
+	{
+		"title": "Fideos Coditos Favorita Paquete 500 Gr",
+		"stock": "(45 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Favorita"
+							}
+						]
+					},
+					{
+						"title": "Registros de establecimiento",
+						"attributes": [
+							{
+								"id": "Número de Registro Nacional de Establecimiento (RNE)",
+								"text": "02-057916"
+							}
+						]
+					},
+					{
+						"title": "Registros de producto",
+						"attributes": [
+							{
+								"id": "Número de inscripción de producto (RNPA)",
+								"text": "02-718346"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Fideos"
+							},
+							{
+								"id": "Sabor de la masa",
+								"text": "Pasta"
+							},
+							{
+								"id": "Nombre de la pasta",
+								"text": "Codito"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Codito"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Pasta"
+							},
+							{
+								"id": "Ingrediente base",
+								"text": "Harina de trigo"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Peso neto",
+								"text": "500 g"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.3,
+				"amount": 3,
+				"subtitle": "(3)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA1386086703?noIndex=true&access=view_all&modal=true",
+					"timeout": 0,
+					"duration": 0,
+					"track": {
+						"analytics_event": {
+							"section": "/VIP/ITEM/MAIN/",
+							"action": "VIEW_REVIEW_SHORT",
+							"category": "ITEM",
+							"label": "VIP"
+						}
+					}
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.3",
+				"formatted_rating_average": {
+					"text": "4.3"
+				},
+				"formatted_total": {
+					"text": "(3)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Excelente.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 320,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_877834-MLA71423651394_092023-O.webp"
+	},
+	{
+		"title": "Spaghetti De Morrón Rina Matarazzo",
+		"price": 497.3,
+		"discount": {
+			"text": "16% OFF",
+			"color": "GREEN",
+			"value": 16
+		},
+		"stock": "(33 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Matarazzo"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Rina Matarazzo"
+							},
+							{
+								"id": "Sabor de la masa",
+								"text": "Morron"
+							},
+							{
+								"id": "Nombre de la pasta",
+								"text": "Fideos"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Spaghetti"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Morrón"
+							},
+							{
+								"id": "Ingrediente base",
+								"text": "Sémola de Trigo Candeal"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Peso neto",
+								"text": "500 g"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "Sí"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Tiempo de cocción",
+								"text": "0.16 h"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.4,
+				"amount": 9,
+				"subtitle": "(9)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA1147055827?noIndex=true&access=view_all&modal=true",
+					"timeout": 0,
+					"duration": 0,
+					"track": {
+						"analytics_event": {
+							"section": "/VIP/ITEM/MAIN/",
+							"action": "VIEW_REVIEW_SHORT",
+							"category": "ITEM",
+							"label": "VIP"
+						}
+					}
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.4",
+				"formatted_rating_average": {
+					"text": "4.4"
+				},
+				"formatted_total": {
+					"text": "(9)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Demasiado al dente para mí gusto.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 3,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Buena pasta, muy rico sabor.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 412.76,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_602334-MLA50741029830_072022-O.webp"
+	},
+	{
+		"title": "Fideos Moños Matarazzo X 500 Gr",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Pastas"
+		],
+		"stock": "(274 disponibles)",
+		"description": "Ingrediente principal: trigo candeal. | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 482,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_665075-MLA43633933885_092020-O.webp"
+	},
+	{
+		"title": "Fideos Arroz Tradicional Fino Soyarroz Sin Gluten | Vegan",
+		"price": 1314,
+		"discount": {
+			"text": "20% OFF",
+			"color": "GREEN",
+			"value": 20
+		},
+		"stock": "(171 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "ALL RICE"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Nombre de la pasta",
+								"text": "Spaghetti Libre de Gluten"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Fideo"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Ingrediente base",
+								"text": "Arroz"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "300 g"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "Sí"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.6,
+				"amount": 38,
+				"subtitle": "(38)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA916570031?noIndex=true&access=view_all&modal=true",
+					"timeout": 0,
+					"duration": 0,
+					"track": {
+						"analytics_event": {
+							"section": "/VIP/ITEM/MAIN/",
+							"action": "VIEW_REVIEW_SHORT",
+							"category": "ITEM",
+							"label": "VIP"
+						}
+					}
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.6",
+				"formatted_rating_average": {
+					"text": "4.6"
+				},
+				"formatted_total": {
+					"text": "(38)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Excelente.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "No son de arroz. Son cabellos de ángel comunes. Un segundo de más y se hace un masacote.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 1,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Bueno.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 4,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 1049,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_671280-MLA46331785369_062021-O.webp"
+	},
+	{
+		"title": "Spaghetti Bonalma 500g trigo duro",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Pastas"
+		],
+		"price": 1021.11,
+		"discount": {
+			"text": "9% OFF",
+			"color": "GREEN",
+			"value": 9
+		},
+		"stock": "(70 disponibles)",
+		"description": "Ingrediente principal: sémola. | Tiempo de cocción: 0.1 h. | Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Bonalma"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Nombre de la pasta",
+								"text": "Spaghetti"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Spaghetti"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Ingrediente base",
+								"text": "Sémola"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Tiempo de cocción",
+								"text": "0.1 h"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 3.8,
+				"amount": 5,
+				"subtitle": "(5)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA19957817?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.0",
+				"aria_label": "Calificación 4 de 5",
+				"rating_average_formatted": "3.8",
+				"formatted_rating_average": {
+					"text": "3.8"
+				},
+				"formatted_total": {
+					"text": "(5)"
+				},
+				"rating_stars": {
+					"value": 4
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Compré esta marca porque no la conocía y me gusta probar productos nuevos. Pero aún no puedo opinar sobre la pasta porque aún no la hice.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 919,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_806207-MLA54975929533_042023-O.webp"
+	},
+	{
+		"title": "Capelettini con Carne Lucchetti Lucchettinis 500g",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Pastas"
+		],
+		"price": 1032.2,
+		"discount": {
+			"text": "16% OFF",
+			"color": "GREEN",
+			"value": 16
+		},
+		"stock": "(11 disponibles)",
+		"description": "",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Lucchetti"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Pastas"
+							},
+							{
+								"id": "Sabor de la masa",
+								"text": "Carne"
+							},
+							{
+								"id": "Nombre de la pasta",
+								"text": "Lucchettinis"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Cappellettis"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Carne"
+							},
+							{
+								"id": "Ingrediente base",
+								"text": "Carne"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Peso neto",
+								"text": "500 g"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Tiempo de cocción",
+								"text": "7 h"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.7,
+				"amount": 3,
+				"subtitle": "(3)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA21361061?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.7",
+				"formatted_rating_average": {
+					"text": "4.7"
+				},
+				"formatted_total": {
+					"text": "(3)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Buen producto.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 4,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 856.73,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_951887-MLA53282549575_012023-O.webp"
+	},
+	{
+		"title": "Fideos Mostachol Verizzia 500 G",
+		"price": 299,
+		"discount": {
+			"text": "10% OFF",
+			"color": "GREEN",
+			"value": 10
+		},
+		"stock": "(111 disponibles)",
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.7,
+				"amount": 37,
+				"subtitle": "(37)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA1371175964?noIndex=true&access=view_all&modal=true",
+					"timeout": 0,
+					"duration": 0,
+					"track": {
+						"analytics_event": {
+							"section": "/VIP/ITEM/MAIN/",
+							"action": "VIEW_REVIEW_SHORT",
+							"category": "ITEM",
+							"label": "VIP"
+						}
+					}
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.7",
+				"formatted_rating_average": {
+					"text": "4.7"
+				},
+				"formatted_total": {
+					"text": "(37)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Nos encantaron. Ya bolvi a comprar. El precio. Increíble.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 4,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Riquísimos.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "El paquete es muy malo a penas lo abrí se rompió completamente y perdí todos los fideos por el suelo. El fideo safa, nada de otro mundo.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 2,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 269.1,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_971469-MLA54360553369_032023-O.webp"
+	},
+	{
+		"title": "Fideos Tallarin N15 Matarazzo 500 Gr",
+		"stock": "(43 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 525,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_988609-MLA71352838125_082023-O.webp"
+	},
+	{
+		"title": "Fideos tallarín Don Felipe pastas al huevo 500g",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Pastas"
+		],
+		"stock": "(4 disponibles)",
+		"description": "Pasta al huevo. | Tiempo de cocción: 7 h.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Don Felipe"
+							}
+						]
+					},
+					{
+						"title": "Registros de establecimiento",
+						"attributes": [
+							{
+								"id": "Número de Registro Nacional de Establecimiento (RNE)",
+								"text": "02-057916"
+							}
+						]
+					},
+					{
+						"title": "Registros de producto",
+						"attributes": [
+							{
+								"id": "Número de inscripción de producto (RNPA)",
+								"text": "02-032977"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Pastas al Huevo"
+							},
+							{
+								"id": "Sabor de la masa",
+								"text": "Regular"
+							},
+							{
+								"id": "Nombre de la pasta",
+								"text": "Tallarínes"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Tallarín"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Regular"
+							},
+							{
+								"id": "Ingrediente base",
+								"text": "Al huevo"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Peso neto",
+								"text": "500 g"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Tiempo de cocción",
+								"text": "7 h"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.7,
+				"amount": 11,
+				"subtitle": "(11)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA20081097?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.7",
+				"formatted_rating_average": {
+					"text": "4.7"
+				},
+				"formatted_total": {
+					"text": "(11)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Excelente calidad.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Riquisimos y fresca pasta al huevo.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 555,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_882128-MLA50761421715_072022-O.webp"
+	},
+	{
+		"title": "Fideos Favorita Mostachol Con Hierro X 500 Gr",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Pastas"
+		],
+		"stock": "(9 disponibles)",
+		"description": "Ingrediente principal: trigo candeal. | Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Favorita"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Mostachol"
+							},
+							{
+								"id": "Nombre de la pasta",
+								"text": "Mostachol"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Mostachol"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Ingrediente base",
+								"text": "Trigo candeal"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Peso neto",
+								"text": "500 g"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+		],
+		"reviewsInfo": {},
+		"offer_price": 294,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_821819-MLA49738996419_042022-O.webp"
+	},
+	{
+		"title": "Fideos Arcor Tallarin 500gr",
+		"stock": "(64 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 480,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_849639-MLA71436600842_092023-O.webp"
+	},
+	{
+		"title": "Fideos Tirabuzon La Morocha 500g",
+		"stock": "(44 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "La morocha"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Fideos"
+							},
+							{
+								"id": "Sabor de la masa",
+								"text": "Pasta"
+							},
+							{
+								"id": "Nombre de la pasta",
+								"text": "Tirabuzón"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Tirabuzon"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Pasta"
+							},
+							{
+								"id": "Ingrediente base",
+								"text": "Trigo candeal"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Peso neto",
+								"text": "500 g"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 365,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_755981-MLA71104307895_082023-O.webp"
+	},
+	{
+		"title": "Fideos Giacomo Capelettini Verdura 500 Grs",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Pastas"
+		],
+		"stock": "(266 disponibles)",
+		"description": "Ingrediente principal: trigo candeal. | Tiempo de cocción: 15 h. | Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Giacomo"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Capelettini"
+							},
+							{
+								"id": "Sabor de la masa",
+								"text": "Espinaca"
+							},
+							{
+								"id": "Nombre de la pasta",
+								"text": "Capelettini Verdura"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Fideos"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Verdura"
+							},
+							{
+								"id": "Ingrediente base",
+								"text": "Trigo candeal"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Tiempo de cocción",
+								"text": "15 h"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.9,
+				"amount": 20,
+				"subtitle": "(20)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA19977015?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "5.0",
+				"aria_label": "Calificación 5 de 5",
+				"rating_average_formatted": "4.9",
+				"formatted_rating_average": {
+					"text": "4.9"
+				},
+				"formatted_total": {
+					"text": "(20)"
+				},
+				"rating_stars": {
+					"value": 5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Buen producto.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 4,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Los más ricos!!.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 1237,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_695747-MLU70068017796_062023-O.webp"
+	},
+	{
+		"title": "Fideos Matarazzo Mostachol N°14 X 500 Gr ",
+		"price": 483.1,
+		"discount": {
+			"text": "7% OFF",
+			"color": "GREEN",
+			"value": 7
+		},
+		"stock": "(41 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 449.28,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_766164-MLA69118782104_042023-O.webp"
+	},
+	{
+		"title": "Fideos Spaghetti Favorita 500 Gr",
+		"stock": "(115 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 320,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_886571-MLA71352308459_082023-O.webp"
+	},
+	{
+		"title": "Aceite De Oliva Terranova Extra Vírgen 5 Litros La Riojana",
+		"stock": "(23 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 23800,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_770053-MLA70798540215_072023-O.webp"
+	},
+	{
+		"title": "Fideos La Campagnola Penne Rigate 500gr",
+		"stock": "(28 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "La Campagnola"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Fideos"
+							},
+							{
+								"id": "Sabor de la masa",
+								"text": "Pasta"
+							},
+							{
+								"id": "Nombre de la pasta",
+								"text": "Penne Rigate"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Penne Rigate"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Pasta"
+							},
+							{
+								"id": "Ingrediente base",
+								"text": "Trigo candeal"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Peso neto",
+								"text": "500 g"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 473,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_931598-MLA71352815847_082023-O.webp"
+	},
+	{
+		"title": "Pasta De Maní  (mani King) X 485gr ",
+		"price": 1403,
+		"discount": {
+			"text": "10% OFF",
+			"color": "GREEN",
+			"value": 10
+		},
+		"stock": "(538 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 1262.7,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_838047-MLA52444992621_112022-O.webp"
+	},
+	{
+		"title": "Fideos Favorita Tirabuzon Con Hierro X 500 Gr",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Pastas"
+		],
+		"price": 320,
+		"discount": {
+			"text": "5% OFF",
+			"color": "GREEN",
+			"value": 5
+		},
+		"stock": "(65 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 304,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_750151-MLA51435445701_092022-O.webp"
+	},
+	{
+		"title": "Pasta Integral X 227g Spaguetti Con Espinaca - Apto Vegano -",
+		"price": 1464,
+		"discount": {
+			"text": "50% OFF",
+			"color": "GREEN",
+			"value": 50
+		},
+		"stock": "(31 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 732,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_919659-MLA69732518611_052023-O.webp"
+	},
+	{
+		"title": "Fideo Integral Tallarin Organico (campo Claro) X 500gr",
+		"stock": "(20 disponibles)",
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.9,
+				"amount": 8,
+				"subtitle": "(8)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA885504658?noIndex=true&access=view_all&modal=true",
+					"timeout": 0,
+					"duration": 0,
+					"track": {
+						"analytics_event": {
+							"section": "/VIP/ITEM/MAIN/",
+							"action": "VIEW_REVIEW_SHORT",
+							"category": "ITEM",
+							"label": "VIP"
+						}
+					}
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "5.0",
+				"aria_label": "Calificación 5 de 5",
+				"rating_average_formatted": "4.9",
+				"formatted_rating_average": {
+					"text": "4.9"
+				},
+				"formatted_total": {
+					"text": "(8)"
+				},
+				"rating_stars": {
+					"value": 5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Excelente calidad.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Riquísimos, muy recomendables.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Riquisimos. Me encantaron. Los voy a seguir comprando.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 1050,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_673666-MLA43879453767_102020-O.webp"
+	},
+	{
+		"title": "Mantequilla Pasta De Mani Original Mani King 350g Sin Tacc",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Mermeladas, Dulces y Miel",
+			"Mantequillas de Maní"
+		],
+		"stock": "(184 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Maní King"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Mermeladas, Dulces y Miel"
+							},
+							{
+								"id": "Peso neto",
+								"text": "350 g"
+							},
+							{
+								"id": "Sabor",
+								"text": "Maní"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Frasco"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Formato de la mantequilla de maní",
+								"text": "Crema"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "Sí"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.7,
+				"amount": 63,
+				"subtitle": "(63)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA21776987?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.7",
+				"formatted_rating_average": {
+					"text": "4.7"
+				},
+				"formatted_total": {
+					"text": "(63)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Bueno pero creí que venía en un envase más grande.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Muy rica ya la había probado antes. Compro esta porque marido quiere con azúcar. A los nenes le compro la pasta de mani natural que viene sin agregados.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Excelente pasta de mani, para hacer liquados.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 1169,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_616367-MLA49173043847_022022-O.webp"
+	},
+	{
+		"title": "Aceite De Oliva Extra Virgen Intenso Sin Tacc X 2l Viridian",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Aceites y Vinagres",
+			"Aceites"
+		],
+		"stock": "(27 disponibles)",
+		"description": "Ideal para arroces, ensaladas, masas, pastas. | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.5,
+				"amount": 30,
+				"subtitle": "(30)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA22912576?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.5",
+				"formatted_rating_average": {
+					"text": "4.5"
+				},
+				"formatted_total": {
+					"text": "(30)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Rico y un poco picante, me gustó mucho. Compre 2 botellas de dos litros y me trajo un regalo.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Bueno.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Excelente calidad.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 9287,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_636517-MLU69134141810_042023-O.webp"
+	},
+	{
+		"title": "Fideos Coditos Pastasole 500gr",
+		"stock": "(76 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Pastasole"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Fideos"
+							},
+							{
+								"id": "Sabor de la masa",
+								"text": "Pasta"
+							},
+							{
+								"id": "Nombre de la pasta",
+								"text": "Coditos"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Coditos"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Pasta"
+							},
+							{
+								"id": "Ingrediente base",
+								"text": "Semola de trigo candeal"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Peso neto",
+								"text": "500 g"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 382,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_916452-MLA71469298477_092023-O.webp"
+	},
+	{
+		"title": "Fideos  Bonalma X 500 Grs ",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Pastas"
+		],
+		"price": 1021.11,
+		"discount": {
+			"text": "9% OFF",
+			"color": "GREEN",
+			"value": 9
+		},
+		"stock": "(52 disponibles)",
+		"description": "Ingrediente principal: semola de trigo duro. | Tiempo de cocción: 0.1 h. | Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Bonalma"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Nombre de la pasta",
+								"text": "Fusilli"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Fusilli"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Pasta"
+							},
+							{
+								"id": "Ingrediente base",
+								"text": "Semola de trigo duro"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Tiempo de cocción",
+								"text": "0.1 h"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 919,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_757717-MLA44347438442_122020-O.webp"
+	},
+	{
+		"title": "Fideos Spaghetti Terrabusi Pastas - Mejorprecio",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Pastas"
+		],
+		"stock": "(68 disponibles)",
+		"description": "Fideos Spaghetti Terrabusi de alta calidad | Ideal para deliciosos platos italianos | Pasta seca fácil de almacenar y conservar | Práctica bolsa de 500 g para una comida completa | Sabor y textura irresistibles en cada bocado | Perfecto para compartir con familia y amigos",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Terrabusi"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Nombre de la pasta",
+								"text": "Fideos"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Spaghetti"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Pasta"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 420,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_608961-MLA43816663988_102020-O.webp"
+	},
+	{
+		"title": "Fideos Mostachol Pastasole 500gr",
+		"stock": "(103 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Pastasole"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Fideos"
+							},
+							{
+								"id": "Sabor de la masa",
+								"text": "Pasta"
+							},
+							{
+								"id": "Nombre de la pasta",
+								"text": "Mostachol"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Mostachol"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Pasta"
+							},
+							{
+								"id": "Ingrediente base",
+								"text": "Semola de trigo candeal"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Peso neto",
+								"text": "500 g"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 382,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_676204-MLA71066515904_082023-O.webp"
+	},
+	{
+		"title": "Pasta Seca Multicereal Fusilli Con Quinoa - Wakas X 250 Gr",
+		"price": 984.34,
+		"stock": "(28 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 935.13,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_677954-MLA53498221064_012023-O.webp"
+	},
+	{
+		"title": "Fideos Italianos Pasta Barilla - Spaghetti 500g",
+		"stock": "(102 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Barilla"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Pasta Larga"
+							},
+							{
+								"id": "Sabor de la masa",
+								"text": "Pasta de sémola de trigo duro"
+							},
+							{
+								"id": "Nombre de la pasta",
+								"text": "Fideos"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Spaghetti N°5"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Spaghetti"
+							},
+							{
+								"id": "Ingrediente base",
+								"text": "Sémola"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Peso neto",
+								"text": "500 g"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Caja"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Tiempo de cocción",
+								"text": "0.08 h"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							},
+							{
+								"id": "Cantidad",
+								"text": "500"
+							},
+							{
+								"id": "Tipo de unidad",
+								"text": "g"
+							},
+							{
+								"id": "Origen",
+								"text": "Italia"
+							},
+							{
+								"id": "Es light",
+								"text": "No"
+							},
+							{
+								"id": "Es vegano",
+								"text": "No"
+							},
+							{
+								"id": "Es kosher",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de grasas trans",
+								"text": "No"
+							},
+							{
+								"id": "Es kit",
+								"text": "No"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.9,
+				"amount": 21,
+				"subtitle": "(21)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA844532953?noIndex=true&access=view_all&modal=true",
+					"timeout": 0,
+					"duration": 0,
+					"track": {
+						"analytics_event": {
+							"section": "/VIP/ITEM/MAIN/",
+							"action": "VIEW_REVIEW_SHORT",
+							"category": "ITEM",
+							"label": "VIP"
+						}
+					}
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "5.0",
+				"aria_label": "Calificación 5 de 5",
+				"rating_average_formatted": "4.9",
+				"formatted_rating_average": {
+					"text": "4.9"
+				},
+				"formatted_total": {
+					"text": "(21)"
+				},
+				"rating_stars": {
+					"value": 5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Fideos espectaculares, rendí dores y siempre “al dente”, los comas aqui o en italia!!!.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Son fideos italianos.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Hace añios que los compro.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 3370,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_863212-MLA47780878322_102021-O.webp"
+	},
+	{
+		"title": "Fideos Al Huevo Tallarín Lucchetti Fatti 500 Gr",
+		"stock": "(131 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 590,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_992149-MLA71482089511_092023-O.webp"
+	},
+	{
+		"title": "Fideos Lucchetti Penne Rigate X 500 Gr",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Pastas"
+		],
+		"price": 469,
+		"discount": {
+			"text": "5% OFF",
+			"color": "GREEN",
+			"value": 5
+		},
+		"stock": "(102 disponibles)",
+		"description": "Ingrediente principal: regular. | Tiempo de cocción: 7 h. | Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Lucchetti"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Pastas"
+							},
+							{
+								"id": "Sabor de la masa",
+								"text": "Regular"
+							},
+							{
+								"id": "Nombre de la pasta",
+								"text": "Penne Rigate"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Penne Rigate"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Pasta"
+							},
+							{
+								"id": "Ingrediente base",
+								"text": "Regular"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Peso neto",
+								"text": "500 g"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Tiempo de cocción",
+								"text": "7 h"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.8,
+				"amount": 5,
+				"subtitle": "(5)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA24819478?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "5.0",
+				"aria_label": "Calificación 5 de 5",
+				"rating_average_formatted": "4.8",
+				"formatted_rating_average": {
+					"text": "4.8"
+				},
+				"formatted_total": {
+					"text": "(5)"
+				},
+				"rating_stars": {
+					"value": 5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Exelente producto los consumo siempre!!.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Más económico que en supermercados de acá!.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 4,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 445.55,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_636546-MLU70631128710_072023-O.webp"
+	},
+	{
+		"title": "Nutella Ferrero 140g Pasta De Avellanas & Cacao",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Mermeladas, Dulces y Miel",
+			"Cremas de Avellanas"
+		],
+		"price": 1070,
+		"discount": {
+			"text": "22% OFF",
+			"color": "GREEN",
+			"value": 22
+		},
+		"stock": "(9 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Nutella"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Nutella"
+							},
+							{
+								"id": "Sabores",
+								"text": "Cacao"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "140 g"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Frasco"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.6,
+				"amount": 19,
+				"subtitle": "(19)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA21361384?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.6",
+				"formatted_rating_average": {
+					"text": "4.6"
+				},
+				"formatted_total": {
+					"text": "(19)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Mi nieta muy contenta. Cuando la veo siempre se lleva uno de regalo 🎁 ♥️.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Excelente.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Muy rico 😋.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 824,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_957409-MLA53451283834_012023-O.webp"
+	},
+	{
+		"title": "Aceite De Oliva Extra Virgen Sin Tacc X 2l -viridian Clásico",
+		"price": 11880,
+		"discount": {
+			"text": "20% OFF",
+			"color": "GREEN",
+			"value": 20
+		},
+		"stock": "(15 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 9480,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_862981-MLA53088207870_122022-O.webp"
+	},
+	{
+		"title": "Fideos penne rigate Matarazzo sin tacc libre de gluten 500g",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Pastas"
+		],
+		"price": 751,
+		"discount": {
+			"text": "7% OFF",
+			"color": "GREEN",
+			"value": 7
+		},
+		"description": "Tiempo de cocción: 7 h.",
+		"reviewsInfo": {},
+		"offer_price": 698.43,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_802863-MLA50596586805_072022-O.webp"
+	},
+	{
+		"title": "Fideos De Arroz Sin Gluten Con Espinaca Soyarroz Vegan 300gr",
+		"price": 1314,
+		"discount": {
+			"text": "24% OFF",
+			"color": "GREEN",
+			"value": 24
+		},
+		"stock": "(29 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 998,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_603976-MLA46331558573_062021-O.webp"
+	},
+	{
+		"title": "Fideo Integ Organico Fettuccini C/espinaca (c. Claro) X 500g",
+		"stock": "(25 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "El Portugues"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Nombre de la pasta",
+								"text": "Fettuccini"
+							},
+							{
+								"id": "Tipo de pasta",
+								"text": "Fideo"
+							},
+							{
+								"id": "Formato de la pasta",
+								"text": "Secas"
+							},
+							{
+								"id": "Sabor",
+								"text": "Espinaca"
+							},
+							{
+								"id": "Ingrediente base",
+								"text": "HARINA DE ARROZ"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "500 g"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es integral",
+								"text": "Sí"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Tiempo de cocción",
+								"text": "8 h"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 890,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_975020-MLA45353623904_032021-O.webp"
+	},
+	{
+		"title": "Fideos Lucchetti Mostachol Al Huevo X 500 Gr",
+		"price": 507.5,
+		"discount": {
+			"text": "6% OFF",
+			"color": "GREEN",
+			"value": 6
+		},
+		"stock": "(97 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 471.98,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_642968-MLA54980089906_042023-O.webp"
+	},
+	{
+		"title": "Pasta De Mani Ahumada Entrenuts Sin Tacc, Vegana X 370 Grs.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Entrenuts"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Mantequilla"
+							},
+							{
+								"id": "Peso neto",
+								"text": "370 g"
+							},
+							{
+								"id": "Sabor",
+								"text": "Ahumada"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Frasco"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Formato de la mantequilla de maní",
+								"text": "Crema"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "Sí"
+							},
+							{
+								"id": "Es libre de azúcar agregada",
+								"text": "Sí"
+							},
+							{
+								"id": "Es vegano",
+								"text": "Sí"
+							},
+							{
+								"id": "Es producto orgánico",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de aceites agregados",
+								"text": "Sí"
+							},
+							{
+								"id": "Vida útil",
+								"text": "1 años"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 1564,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_950799-MLA69605962490_052023-O.webp"
+	},
+	{
+		"title": "Pasta de maní Entrenuts natural sin tacc 380g",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Mermeladas, Dulces y Miel",
+			"Mantequillas de Maní"
+		],
+		"stock": "(12 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 1574,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_863116-MLA45652278183_042021-O.webp"
+	}
+]

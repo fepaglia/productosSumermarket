@@ -1,0 +1,2408 @@
+[
+	{
+		"title": "Pan Sin Tacc Multigrano Schar",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Panes"
+		],
+		"stock": "(158 disponibles)",
+		"description": "Tipo de corteza: corteza tierna. | Mantener a temperatura ambiente. | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 1400,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_825031-MLA50608302423_072022-O.webp"
+	},
+	{
+		"title": "Pan Dulce Steinhauser 850 Gr Con Frutos Estilo Europeo",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Pan Dulce"
+		],
+		"stock": "(53 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 8413.15,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_833813-MLA48625174519_122021-O.webp"
+	},
+	{
+		"title": "Pan Dulce Valente Con Chips X 400grs - Cioccolato Tienda",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Pan Dulce"
+		],
+		"stock": "(26 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 1200.62,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_917209-MLA51853747469_102022-O.webp"
+	},
+	{
+		"title": "Pan Schar Pevet Sin Tacc Y Sin Lactosa X 150 Grs.",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Panes"
+		],
+		"description": "Mantener a temperatura ambiente. | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 1779,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_763273-MLA50532274387_062022-O.webp"
+	},
+	{
+		"title": "Grisines De Lino Y Chia  Grun 145g",
+		"stock": "(71 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 723.2,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_809431-MLA51561215720_092022-O.webp"
+	},
+	{
+		"title": "Pan Sin Tacc Marca Schar",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Panes"
+		],
+		"stock": "(216 disponibles)",
+		"description": "Libre de gluten, ideal para celíacos | Marca Schär, líder en productos sin TACC | Corteza tierna y sabor clásico | Ingrediente principal: maíz | Sin semillas, apto para toda la familia | Unidad individual para mayor frescura | Mantener a temperatura ambiente.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Schär"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Premium"
+							},
+							{
+								"id": "Variedad del pan",
+								"text": "Pan lactal"
+							},
+							{
+								"id": "Sabor",
+								"text": "Clásico"
+							},
+							{
+								"id": "Tipo de corteza",
+								"text": "Corteza tierna"
+							},
+							{
+								"id": "Ingrediente principal",
+								"text": "Maíz"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "200 g"
+							},
+							{
+								"id": "Con semillas",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "Sí"
+							},
+							{
+								"id": "Condición de venta",
+								"text": "Envasado"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.6,
+				"amount": 49,
+				"subtitle": "(49)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA20039341?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.6",
+				"formatted_rating_average": {
+					"text": "4.6"
+				},
+				"formatted_total": {
+					"text": "(49)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Muy buen producto!!! por ser sin tacc, no es para nada seco, es igual que un pan lactal regular.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "El mas rico.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Me gusta y me cae bien. Tiene doble envase asi que se conserva por mas tiempo que otros panes. Contras : lo siento un poco seco en comparación con otros panes sin taac.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 4,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 1460,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_937469-MLA50608264473_072022-O.webp"
+	},
+	{
+		"title": "Budin Con Frutas Secas Don Satur Vainilla - Mejor Precio",
+		"price": 603.4,
+		"discount": {
+			"text": "16% OFF",
+			"color": "GREEN",
+			"value": 16
+		},
+		"stock": "(210 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Título manual",
+								"text": "Pack X 15 Unid Budin Cfruta 190 Gr Don Satur Pan Dulces"
+							},
+							{
+								"id": "Marca",
+								"text": "Don Satur"
+							},
+							{
+								"id": "Condición de venta",
+								"text": "Envasado"
+							},
+							{
+								"id": "Sabor",
+								"text": "Vainilla"
+							},
+							{
+								"id": "Relleno",
+								"text": "Frutas"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "190 g"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Es vegano",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de lactosa",
+								"text": "No"
+							},
+							{
+								"id": "Es light",
+								"text": "No"
+							},
+							{
+								"id": "Con cobertura de chocolate",
+								"text": "No"
+							},
+							{
+								"id": "Es casero",
+								"text": "No"
+							},
+							{
+								"id": "Peso mínimo promedio",
+								"text": "190 g"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 502.8,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_695321-MLA52268405022_112022-O.webp"
+	},
+	{
+		"title": "Budin Vainilla Don Satur Dulce - Mejor Precio",
+		"price": 603.4,
+		"discount": {
+			"text": "16% OFF",
+			"color": "GREEN",
+			"value": 16
+		},
+		"stock": "(212 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Título manual",
+								"text": "Pack X 3 Unid Budin Vainilla 190 Gr Don Satur Pan Dulces"
+							},
+							{
+								"id": "Marca",
+								"text": "Don Satur"
+							},
+							{
+								"id": "Condición de venta",
+								"text": "Envasado"
+							},
+							{
+								"id": "Sabor",
+								"text": "Vainilla"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "190 g"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Es vegano",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de lactosa",
+								"text": "No"
+							},
+							{
+								"id": "Es light",
+								"text": "No"
+							},
+							{
+								"id": "Con cobertura de chocolate",
+								"text": "No"
+							},
+							{
+								"id": "Es casero",
+								"text": "No"
+							},
+							{
+								"id": "Peso mínimo promedio",
+								"text": "190 g"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 502.8,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_725588-MLA52268079899_112022-O.webp"
+	},
+	{
+		"title": "Pan Dulce Valente Con Frutas Y Pasas - Mejor Precio",
+		"stock": "(12 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 1536.8,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_887742-MLA51369961431_092022-O.webp"
+	},
+	{
+		"title": "Budín Con Chips De Chocolate Smams 200gr X1u | Sin Tacc",
+		"price": 2060,
+		"discount": {
+			"text": "24% OFF",
+			"color": "GREEN",
+			"value": 24
+		},
+		"stock": "(26 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Título manual",
+								"text": "Budines Smams - Sin Tacc"
+							},
+							{
+								"id": "Marca",
+								"text": "Smams"
+							},
+							{
+								"id": "Condición de venta",
+								"text": "Envasado"
+							},
+							{
+								"id": "Sabor",
+								"text": "Vainilla"
+							},
+							{
+								"id": "Relleno",
+								"text": "Chips de chocolate"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "250 g"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Es libre de gluten",
+								"text": "Sí"
+							},
+							{
+								"id": "Peso mínimo promedio",
+								"text": "200 g"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 1550,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_708584-MLA46978350247_082021-O.webp"
+	},
+	{
+		"title": "Tostadas Criollitas Bagley Sin Sal X 195 Gr",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Tostadas y Grisines"
+		],
+		"price": 642.21,
+		"discount": {
+			"text": "9% OFF",
+			"color": "GREEN",
+			"value": 9
+		},
+		"stock": "(46 disponibles)",
+		"description": "Sin Sal. | Producto dietético. | Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Criollitas"
+							},
+							{
+								"id": "Nombre",
+								"text": "Criollitas"
+							},
+							{
+								"id": "Peso neto",
+								"text": "195 g"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "195 g"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Tipos de galletita",
+								"text": "Sin Sal"
+							},
+							{
+								"id": "Características de la galletita",
+								"text": "Sin Sal"
+							},
+							{
+								"id": "Es producto dietético",
+								"text": "Sí"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Con sal",
+								"text": "No"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"image": "https://http2.mlstatic.com/D_NQ_NP_924298-MLA45568099914_042021-O.webp"
+	},
+	{
+		"title": "Grisines Artesa Snacks Veganos Quinoa 160g",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Tostadas y Grisines"
+		],
+		"stock": "(3 disponibles)",
+		"description": "Integrales. | Aptas para personas veganas. | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 705,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_857403-MLU70980218511_082023-O.webp"
+	},
+	{
+		"title": "Budín Sabor Limón Sin Tacc Smams 250 Gr 1 uBudines de limón en bolsa sin TACC 250 g 1 u ",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Budines"
+		],
+		"stock": "(46 disponibles)",
+		"description": "Mantener a temperatura ambiente | Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Título manual",
+								"text": "Budín Sabor Limón Sin Tacc Smams 250 Gr 1 u"
+							},
+							{
+								"id": "Marca",
+								"text": "Smams"
+							},
+							{
+								"id": "Línea",
+								"text": "Budines"
+							},
+							{
+								"id": "Condición de venta",
+								"text": "Envasado"
+							},
+							{
+								"id": "Sabor",
+								"text": "Limón"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "250 g"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Es libre de gluten",
+								"text": "Sí"
+							},
+							{
+								"id": "Es vegano",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de lactosa",
+								"text": "No"
+							},
+							{
+								"id": "Es light",
+								"text": "No"
+							},
+							{
+								"id": "Con cobertura de chocolate",
+								"text": "No"
+							},
+							{
+								"id": "Es casero",
+								"text": "No"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"image": "https://http2.mlstatic.com/D_NQ_NP_687505-MLU71211857326_082023-O.webp"
+	},
+	{
+		"title": "Budin Steinhauser Vainilla 250 Gr.",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Budines"
+		],
+		"stock": "(36 disponibles)",
+		"description": "Delicioso sabor a vainilla para disfrutar en cualquier momento | Práctica bolsa que conserva frescura y facilita transporte | Ideal para compartir con familia y amigos | Peso neto de 250 gramos, perfecto para satisfacer antojos | Marca Steinhauser, garantía de calidad y sabor | Unidades por pack: 1, para que disfrutes al máximo | Mantener a temperatura ambiente",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Título manual",
+								"text": "Budin Steinhauser Vainilla 250 Gr."
+							},
+							{
+								"id": "Marca",
+								"text": "Steinhauser"
+							},
+							{
+								"id": "Sabor",
+								"text": "Vainilla"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "250 g"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Es vegano",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de lactosa",
+								"text": "No"
+							},
+							{
+								"id": "Es light",
+								"text": "No"
+							},
+							{
+								"id": "Con cobertura de chocolate",
+								"text": "No"
+							},
+							{
+								"id": "Coberturas",
+								"text": "harina"
+							},
+							{
+								"id": "Es casero",
+								"text": "No"
+							},
+							{
+								"id": "Peso mínimo promedio",
+								"text": "250 g"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"image": "https://http2.mlstatic.com/D_NQ_NP_876651-MLA52268790245_112022-O.webp"
+	},
+	{
+		"title": "Budín Marmolado Sin Azucar Sin Tacc Smams 200 GrBudines de marmolado en bolsa sin TACC 200 g 1 u ",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Budines"
+		],
+		"stock": "(82 disponibles)",
+		"description": "Alimento light. | Mantener a temperatura ambiente | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 1808.63,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_959280-MLU71211857322_082023-O.webp"
+	},
+	{
+		"title": "Budín sin tacc sabor vainilla Smams 250g",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Budines"
+		],
+		"price": 2060,
+		"discount": {
+			"text": "24% OFF",
+			"color": "GREEN",
+			"value": 24
+		},
+		"stock": "(13 disponibles)",
+		"description": "Mantener a temperatura ambiente",
+		"reviewsInfo": {
+			"rating": {
+				"rating": 5,
+				"amount": 1,
+				"subtitle": "(1)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA24746889?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "5.0",
+				"aria_label": "Calificación 5 de 5",
+				"rating_average_formatted": "5.0",
+				"formatted_rating_average": {
+					"text": "5.0"
+				},
+				"formatted_total": {
+					"text": "(1)"
+				},
+				"rating_stars": {
+					"value": 5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Excelente.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 1550,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_650441-MLU70623317404_072023-O.webp"
+	},
+	{
+		"title": "Galletitas de arroz Criollitas Bagley 110g",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Tostadas y Grisines"
+		],
+		"price": 896.66,
+		"discount": {
+			"text": "10% OFF",
+			"color": "GREEN",
+			"value": 10
+		},
+		"stock": "(47 disponibles)",
+		"description": "Arroz. | Producto dietético.",
+		"reviewsInfo": {},
+		"offer_price": 806.99,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_719338-MLU54977455594_042023-O.webp"
+	},
+	{
+		"title": "Budín De Vainilla Sin Tacc Smams 250 Gr",
+		"stock": "(36 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Título manual",
+								"text": "Budín sin tacc sabor vainilla Smams 250g"
+							},
+							{
+								"id": "Marca",
+								"text": "Smams"
+							},
+							{
+								"id": "Línea",
+								"text": "Budines"
+							},
+							{
+								"id": "Condición de venta",
+								"text": "Envasado"
+							},
+							{
+								"id": "Sabor",
+								"text": "Vainilla"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "250 g"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Es libre de gluten",
+								"text": "Sí"
+							},
+							{
+								"id": "Es vegano",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de lactosa",
+								"text": "No"
+							},
+							{
+								"id": "Es light",
+								"text": "No"
+							},
+							{
+								"id": "Con cobertura de chocolate",
+								"text": "No"
+							},
+							{
+								"id": "Es casero",
+								"text": "No"
+							},
+							{
+								"id": "Peso mínimo promedio",
+								"text": "250 g"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							},
+							{
+								"id": "Es vegetariano",
+								"text": "No"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 1563.22,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_770455-MLA70840501451_082023-O.webp"
+	},
+	{
+		"title": "Pan Esenio  Crudencio 90g",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Crudencio"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "ESENIOS"
+							},
+							{
+								"id": "Variedad del pan",
+								"text": "Esenio"
+							},
+							{
+								"id": "Ingrediente principal",
+								"text": "Sarraceno"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "90 g"
+							},
+							{
+								"id": "Con semillas",
+								"text": "Sí"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "Sí"
+							},
+							{
+								"id": "Condición de venta",
+								"text": "Granel"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 1116.91,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_836179-MLA51561221321_092022-O.webp"
+	},
+	{
+		"title": "Oferta! Pan Dulce Valente Xl Familiar Frutas Y Pasas De Uva",
+		"stock": "(6 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 3199,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_820533-MLA71559737642_092023-O.webp"
+	},
+	{
+		"title": "Budin Premium Steinhauser Chips De Chocolate Bañado 250 G",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Budines"
+		],
+		"stock": "(5 disponibles)",
+		"description": "Bañado en chocolate. | Tiene chocolate. | Mantener a temperatura ambiente | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 1193.76,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_769074-MLA47846405968_102021-O.webp"
+	},
+	{
+		"title": "Budin Steinhauser Chocolate X 250 Grs",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Budines"
+		],
+		"stock": "(84 disponibles)",
+		"description": "Delicioso sabor a chocolate para disfrutar en cualquier momento | Práctica bolsa que conserva frescura y sabor del budín | Peso neto de 250 gramos, ideal para compartir | Elaborado con ingredientes de alta calidad | Perfecto para acompañar desayunos y meriendas | Marca Steinhauser, garantía de buen gusto y calidad | Mantener a temperatura ambiente",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Título manual",
+								"text": "Budin Steinhauser Chocolate X 250 Grs"
+							},
+							{
+								"id": "Marca",
+								"text": "Steinhauser"
+							},
+							{
+								"id": "Sabor",
+								"text": "Chocolate"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "250 g"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Es vegano",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de lactosa",
+								"text": "No"
+							},
+							{
+								"id": "Es light",
+								"text": "No"
+							},
+							{
+								"id": "Con cobertura de chocolate",
+								"text": "No"
+							},
+							{
+								"id": "Coberturas",
+								"text": "choco"
+							},
+							{
+								"id": "Es casero",
+								"text": "No"
+							},
+							{
+								"id": "Peso mínimo promedio",
+								"text": "250 g"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+			"reviewsInfo" : {
+				"rating": 4.4,
+				"amount": 7,
+				"subtitle": "(7)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA19978043?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.4",
+				"formatted_rating_average": {
+					"text": "4.4"
+				},
+				"formatted_total": {
+					"text": "(7)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Riquísimo. Creo que es el mejor budín que comí de producción no artesanal.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Muy rico y fresco.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Tiene pequeños ships de chocolate dentro… no es bañado en esa cosa de repostería….\nLo demás si alguna vez probaste un budín de esta marca, ya sabes.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 3,
+						"worstRating": 1
+					}
+				}
+			],
+		"offer_price": 1080.07,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_818513-MLA49172981412_022022-O.webp"
+	},
+	{
+		"title": "Budin Pudding 100 Ducados Vainilla Y Frutos Secos 300gBudín Pudding de vainilla en bolsa 300 g 1 u ",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Budines"
+		],
+		"stock": "(33 disponibles)",
+		"description": "Tiene frutos, secos. | Mantener a temperatura ambiente | Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Título manual",
+								"text": "Budin Pudding 100 Ducados Vainilla Y Frutos Secos 300g"
+							},
+							{
+								"id": "Marca",
+								"text": "100 Ducados"
+							},
+							{
+								"id": "Línea",
+								"text": "Budín Pudding"
+							},
+							{
+								"id": "Condición de venta",
+								"text": "Envasado"
+							},
+							{
+								"id": "Sabor",
+								"text": "Vainilla"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "300 g"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Es vegano",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de lactosa",
+								"text": "No"
+							},
+							{
+								"id": "Es light",
+								"text": "No"
+							},
+							{
+								"id": "Con cobertura de chocolate",
+								"text": "No"
+							},
+							{
+								"id": "Coberturas",
+								"text": "Frutos, Secos"
+							},
+							{
+								"id": "Es casero",
+								"text": "No"
+							},
+							{
+								"id": "Peso mínimo promedio",
+								"text": "300 g"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"image": "https://http2.mlstatic.com/D_NQ_NP_695673-MLU70795036404_082023-O.webp"
+	},
+	{
+		"title": "Grisines Artesa Snacks Veganos Sésamo 160g",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Tostadas y Grisines"
+		],
+		"stock": "(16 disponibles)",
+		"description": "integrales. | Aptas para personas veganas. | Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Artesã"
+							},
+							{
+								"id": "Nombre",
+								"text": "Snacks"
+							},
+							{
+								"id": "Sabor",
+								"text": "Sésamo"
+							},
+							{
+								"id": "Peso neto",
+								"text": "160 g"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							}
+						]
+					},
+					{
+						"title": "Registros de establecimiento",
+						"attributes": [
+							{
+								"id": "Número de Registro Nacional de Establecimiento (RNE)",
+								"text": "02-040,057"
+							}
+						]
+					},
+					{
+						"title": "Registros de producto",
+						"attributes": [
+							{
+								"id": "Número de inscripción de producto (RNPA)",
+								"text": "2020-12251681"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Tipos de galletita",
+								"text": "Grisines"
+							},
+							{
+								"id": "Características de la galletita",
+								"text": "integrales"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Con sal",
+								"text": "Sí"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							},
+							{
+								"id": "Es vegano",
+								"text": "Sí"
+							}
+						]
+					}
+				],
+		"image": "https://http2.mlstatic.com/D_NQ_NP_915468-MLU70740516389_072023-O.webp"
+	},
+	{
+		"title": "Budin Premium Steinhauser Naranja Bañado Chocolate 250 G",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Budines"
+		],
+		"stock": "(36 disponibles)",
+		"description": "Bañado en chocolate. | Tiene harina. | Mantener a temperatura ambiente | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 1193.76,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_614474-MLA47846406988_102021-O.webp"
+	},
+	{
+		"title": "Budin Steinhauser Marmolado 250 gr250 g ",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Budines"
+		],
+		"stock": "(98 disponibles)",
+		"description": "Mantener a temperatura ambiente | Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Título manual",
+								"text": "Budin Steinhauser Marmolado 250 gr"
+							},
+							{
+								"id": "Marca",
+								"text": "Steinhauser"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "250 g"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Es vegano",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de lactosa",
+								"text": "No"
+							},
+							{
+								"id": "Es light",
+								"text": "No"
+							},
+							{
+								"id": "Con cobertura de chocolate",
+								"text": "No"
+							},
+							{
+								"id": "Es casero",
+								"text": "No"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"image": "https://http2.mlstatic.com/D_NQ_NP_769171-MLU70195103748_062023-O.webp"
+	},
+	{
+		"title": "Oferta! Pan Dulce Valente Clasico Con Chips De Chocolate",
+		"stock": "(15 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Valente"
+							},
+							{
+								"id": "Línea",
+								"text": "Chips de Chocolate"
+							},
+							{
+								"id": "Modelo",
+								"text": "Pan Dulce"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Condición de venta",
+								"text": "Envasado"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "400 g"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Relleno",
+								"text": "Chispas de chocolate"
+							},
+							{
+								"id": "Cobertura",
+								"text": "Sin cobertura"
+							},
+							{
+								"id": "Sabor",
+								"text": "Chips de chocolate"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Es light",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de conservantes",
+								"text": "No"
+							},
+							{
+								"id": "Es casero",
+								"text": "No"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 2199,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_862165-MLA71607268025_092023-O.webp"
+	},
+	{
+		"title": "Budin Pudding 100 Ducados Relleno Frutos Del Bosque 300gBudín Pudding de vainilla relleno con frutos del bosque en bolsa 300 g 1 u ",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Budines"
+		],
+		"stock": "(29 disponibles)",
+		"description": "Tiene frutos, secos. | Mantener a temperatura ambiente | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 1998,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_732287-MLU71836073202_092023-O.webp"
+	},
+	{
+		"title": "Grisines Integrales Orgánicos Con Chía Artesa",
+		"stock": "(89 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 705,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_746611-MLA50211855576_062022-O.webp"
+	},
+	{
+		"title": "baguette de maíz tradicional Sin Tacc  sin TACC 100 g",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Panes"
+		],
+		"stock": "(56 disponibles)",
+		"description": "Tipo de corteza: corteza tierna. | Mantener a temperatura ambiente. | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 1320,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_978103-MLU70633449078_072023-O.webp"
+	},
+	{
+		"title": "Budin Pudding 100 Ducados Naranja Con Cascaras De Naranja",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Budines"
+		],
+		"stock": "(27 disponibles)",
+		"description": "Mantener a temperatura ambiente | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 1998,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_945608-MLA51166131747_082022-O.webp"
+	},
+	{
+		"title": "Pan Pevet Schar Sin Tacc 150 G",
+		"stock": "(107 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Schär"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Sin T.A.C.C"
+							},
+							{
+								"id": "Variedad del pan",
+								"text": "Tipo Pebete"
+							},
+							{
+								"id": "Sabor",
+								"text": "Original"
+							},
+							{
+								"id": "Ingrediente principal",
+								"text": "Almidon de Maiz"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "5"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "150 g"
+							},
+							{
+								"id": "Con semillas",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "Sí"
+							},
+							{
+								"id": "Condición de venta",
+								"text": "Envasado"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 1800,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_921107-MLA70808289960_082023-O.webp"
+	},
+	{
+		"title": "Waffles Belgas Veganos  La Maison Gaufre 65g",
+		"stock": "(77 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 488.16,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_900276-MLA51561221090_092022-O.webp"
+	},
+	{
+		"title": "Pan Dulce Don Satur Con Frutas Navidad - Mejor Precio",
+		"stock": "(14 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 1123.56,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_874270-MLA52443658615_112022-O.webp"
+	},
+	{
+		"title": "Budin Steinhauser Naranja 250 Grs",
+		"price": 1661.65,
+		"discount": {
+			"text": "35% OFF",
+			"color": "GREEN",
+			"value": 35
+		},
+		"stock": "(51 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Título manual",
+								"text": "Budin Steinhauser Naranja Con Cascaras De Naranja 250 Gr."
+							},
+							{
+								"id": "Marca",
+								"text": "Steinhauser"
+							},
+							{
+								"id": "Línea",
+								"text": "Premium"
+							},
+							{
+								"id": "Condición de venta",
+								"text": "Envasado"
+							},
+							{
+								"id": "Sabor",
+								"text": "Naranja"
+							},
+							{
+								"id": "Relleno",
+								"text": "con cascaras de naranja al cointreauu"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "250 g"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Es vegano",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de lactosa",
+								"text": "No"
+							},
+							{
+								"id": "Es light",
+								"text": "No"
+							},
+							{
+								"id": "Con cobertura de chocolate",
+								"text": "No"
+							},
+							{
+								"id": "Coberturas",
+								"text": "naranja"
+							},
+							{
+								"id": "Es casero",
+								"text": "No"
+							},
+							{
+								"id": "Peso mínimo promedio",
+								"text": "250 g"
+							},
+							{
+								"id": "Es vegetariano",
+								"text": "No"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 5,
+				"amount": 4,
+				"subtitle": "(4)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA882649000?noIndex=true&access=view_all&modal=true",
+					"timeout": 0,
+					"duration": 0,
+					"track": {
+						"analytics_event": {
+							"section": "/VIP/ITEM/MAIN/",
+							"action": "VIEW_REVIEW_SHORT",
+							"category": "ITEM",
+							"label": "VIP"
+						}
+					}
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "5.0",
+				"aria_label": "Calificación 5 de 5",
+				"rating_average_formatted": "5.0",
+				"formatted_rating_average": {
+					"text": "5.0"
+				},
+				"formatted_total": {
+					"text": "(4)"
+				},
+				"rating_stars": {
+					"value": 5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Riquísimo!! ya lo había probado y me encanta esta marca, el budín es bastante húmedo como me gusta y el sabor es incomparable.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Uno de los mejjores productos que hemos comprado !!!. Mucha calidad y gusto. Realmente es artesanal !!!.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Muy bueno, pero es de esperarse en esa marca.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 1080.07,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_982939-MLA47846419855_102021-O.webp"
+	},
+	{
+		"title": "Galletitas De Arroz Criollitas Sin Sal Bagley Chica",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Tostadas y Grisines"
+		],
+		"price": 896.66,
+		"discount": {
+			"text": "10% OFF",
+			"color": "GREEN",
+			"value": 10
+		},
+		"stock": "(104 disponibles)",
+		"description": "Arroz. | Producto dietético. | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 806.99,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_979643-MLA52532035503_112022-O.webp"
+	},
+	{
+		"title": "Pan Esenio Sarraceno",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Panes"
+		],
+		"description": "Pan con semillas. | Mantener a temperatura ambiente. | Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Crudencio"
+							}
+						]
+					},
+					{
+						"title": "Registros de establecimiento",
+						"attributes": [
+							{
+								"id": "Número de Registro Nacional de Establecimiento (RNE)",
+								"text": "01-002,005"
+							}
+						]
+					},
+					{
+						"title": "Registros de producto",
+						"attributes": [
+							{
+								"id": "Número de inscripción de producto (RNPA)",
+								"text": "01-049,285"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "90 g"
+							},
+							{
+								"id": "Con semillas",
+								"text": "Sí"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "Sí"
+							},
+							{
+								"id": "Condición de venta",
+								"text": "Granel"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+			"reviewsInfo": {
+				"rating": {
+					"rating": 5,
+					"amount": 3,
+					"subtitle": "(3)",
+					"action": {
+						"target": "/noindex/catalog/reviews/MLA1383572659?noIndex=true&access=view_all&modal=true",
+						"timeout": 0,
+						"duration": 0,
+						"track": {
+							"analytics_event": {
+								"section": "/VIP/ITEM/MAIN/",
+								"action": "VIEW_REVIEW_SHORT",
+								"category": "ITEM",
+								"label": "VIP"
+							}
+						}
+					},
+					"title": "Opiniones sobre Opiniones del producto",
+					"stars": "5.0",
+					"aria_label": "Calificación 5 de 5",
+					"rating_average_formatted": "5.0",
+					"formatted_rating_average": {
+						"text": "5.0"
+					},
+					"formatted_total": {
+						"text": "(3)"
+					},
+					"rating_stars": {
+						"value": 5
+					}
+				},
+				"reviews": [
+					{
+						"author": {
+							"name": "Usuario de Mercado Libre",
+							"@type": "Person"
+						},
+						"@type": "Review",
+						"reviewBody": "Riquísimo, liviano y muy delicado de sabor. Grandes productos tiene está marca.",
+						"reviewRating": {
+							"bestRating": 5,
+							"ratingValue": 5,
+							"worstRating": 1
+						}
+					},
+					{
+						"author": {
+							"name": "Usuario de Mercado Libre",
+							"@type": "Person"
+						},
+						"@type": "Review",
+						"reviewBody": "Muy rico como todos los panes scha.",
+						"reviewRating": {
+							"bestRating": 5,
+							"ratingValue": 5,
+							"worstRating": 1
+						}
+					}
+				]
+			},
+		"offer_price": 1173,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_616130-MLA50237026141_062022-O.webp"
+	},
+	{
+		"title": "Guindas Artificiales Verdes Pascua Reposteria Panaderia 5kg",
+		"stock": "(3 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 9449,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_671422-MLA44960929672_022021-O.webp"
+	},
+	{
+		"title": "Taxopastry Base Oleosa Para Rosca Pan Dulce 3 Kg Panaderia",
+		"stock": "(7 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 11832,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_928355-MLA44816605509_022021-O.webp"
+	},
+	{
+		"title": "Budin Pudding 100 Ducados Chocolate Con Chips Chocolate 300gBudín Pudding de chocolate relleno con chispas de chocolate en bolsa 300 g 1 u ",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Budines"
+		],
+		"stock": "(27 disponibles)",
+		"description": "Tiene chocolate, chips. | Mantener a temperatura ambiente | Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Título manual",
+								"text": "Budin Pudding 100 Ducados Chocolate Con Chips Chocolate 300g"
+							},
+							{
+								"id": "Marca",
+								"text": "100 Ducados"
+							},
+							{
+								"id": "Línea",
+								"text": "Budín Pudding"
+							},
+							{
+								"id": "Condición de venta",
+								"text": "Envasado"
+							},
+							{
+								"id": "Sabor",
+								"text": "Chocolate"
+							},
+							{
+								"id": "Relleno",
+								"text": "Chispas de chocolate"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "300 g"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Es vegano",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de lactosa",
+								"text": "No"
+							},
+							{
+								"id": "Es light",
+								"text": "No"
+							},
+							{
+								"id": "Con cobertura de chocolate",
+								"text": "No"
+							},
+							{
+								"id": "Coberturas",
+								"text": "Chocolate, Chips"
+							},
+							{
+								"id": "Es casero",
+								"text": "No"
+							},
+							{
+								"id": "Peso mínimo promedio",
+								"text": "300 g"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"image": "https://http2.mlstatic.com/D_NQ_NP_803937-MLU70826793839_082023-O.webp"
+	},
+	{
+		"title": "Pan Dulce Mar De Oro Con Frutas Simple - Mejor Precio",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Pan Dulce"
+		],
+		"stock": "(79 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 860.69,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_669273-MLU71102231331_082023-O.webp"
+	},
+	{
+		"title": "Waffles Belgas Originales  La Maison Gaufre 65g",
+		"stock": "(112 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 488.16,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_620920-MLA51561216560_092022-O.webp"
+	},
+	{
+		"title": "Pan Schar En Rodajas Con Manzana Y Canela Sin Tacc X 200 Grs",
+		"price": 1550,
+		"discount": {
+			"text": "10% OFF",
+			"color": "GREEN",
+			"value": 10
+		},
+		"stock": "(32 disponibles)",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Schär"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "Mesa"
+							},
+							{
+								"id": "Variedad del pan",
+								"text": "Pan lactal"
+							},
+							{
+								"id": "Sabor",
+								"text": "Manzana y canela"
+							},
+							{
+								"id": "Tipo de corteza",
+								"text": "Corteza tierna"
+							},
+							{
+								"id": "Ingrediente principal",
+								"text": "Maiz y Trigo Sarraceno"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "200 g"
+							},
+							{
+								"id": "Con semillas",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "Sí"
+							},
+							{
+								"id": "Condición de venta",
+								"text": "Envasado"
+							}
+						]
+					}
+				],
+		"offer_price": 1395,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_825051-MLA71281471482_082023-O.webp"
+	},
+	{
+		"title": "Pan Dulce Valente Sin Frutas - Mejor Precio",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Pan Dulce"
+		],
+		"stock": "(44 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 903.13,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_654457-MLA51369961940_092022-O.webp"
+	},
+	{
+		"title": "Budin Pudding 100 Ducados Relleno De Dulce De Leche",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Budines"
+		],
+		"stock": "(25 disponibles)",
+		"description": "Mantener a temperatura ambiente | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 1998,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_674982-MLA51168103793_082022-O.webp"
+	},
+	{
+		"title": "Galletitas De Arroz Criollitas Bagley Dulce Chica",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Tostadas y Grisines"
+		],
+		"price": 896.66,
+		"discount": {
+			"text": "10% OFF",
+			"color": "GREEN",
+			"value": 10
+		},
+		"stock": "(21 disponibles)",
+		"description": "Arroz dulce. | Producto dietético. | Las imágenes pueden ser ilustrativas.",
+		"reviewsInfo": {},
+		"offer_price": 806.99,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_698376-MLA53862618760_022023-O.webp"
+	},
+	{
+		"title": "Budin Pudding 100 Ducados Gales Nueces Cereza PasasGales de nueces / cerezas / pasas en bolsa 350 g 1 u ",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Budines"
+		],
+		"stock": "(19 disponibles)",
+		"description": "Mantener a temperatura ambiente | Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Título manual",
+								"text": "Budin Pudding 100 Ducados Gales Nueces Cereza Pasas"
+							},
+							{
+								"id": "Marca",
+								"text": "100 Ducados"
+							},
+							{
+								"id": "Línea",
+								"text": "Gales"
+							},
+							{
+								"id": "Condición de venta",
+								"text": "Envasado"
+							},
+							{
+								"id": "Sabor",
+								"text": "Nueces / Cerezas / Pasas"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Bolsa"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "350 g"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Es vegano",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de lactosa",
+								"text": "No"
+							},
+							{
+								"id": "Es light",
+								"text": "No"
+							},
+							{
+								"id": "Con cobertura de chocolate",
+								"text": "No"
+							},
+							{
+								"id": "Es casero",
+								"text": "No"
+							},
+							{
+								"id": "Peso mínimo promedio",
+								"text": "350 g"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"offer_price": 1998,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_743869-MLU69791608483_062023-O.webp"
+	},
+	{
+		"title": "Waffle Belga De Semillas 65g Fuente Fibra - 0% Grasas Trans",
+		"category": [
+			"Alimentos y Bebidas",
+			"Almacén",
+			"Panadería",
+			"Panes"
+		],
+		"stock": "(121 disponibles)",
+		"description": "Waffle belga de semillas para un sabor y textura únicos | Fuente de fibra, ideal para una dieta equilibrada | 0% grasas trans para cuidar tu salud | Peso neto de 65g, perfecto para desayunos o meriendas | Marca La Maison Gaufre, calidad garantizada | Producto no apto para celíacos, contiene gluten | Mantener a temperatura ambiente.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "La Maison Gaufre"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Variedad del pan",
+								"text": "Waffle"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Peso neto",
+								"text": "65 g"
+							},
+							{
+								"id": "Con semillas",
+								"text": "Sí"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "No"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"offer_price": 488.16,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_740059-MLU70450693804_072023-O.webp"
+	}
+]

@@ -1,0 +1,607 @@
+[
+	{
+		"title": "Leche Descremada Larga Vida Tregar X 12 Unidades",
+		"price": 6173.99,
+		"stock": "(449 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 5247,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_919369-MLA53269717268_012023-O.webp"
+	},
+	{
+		"title": "Leche Descremada Larga Vida X 1 L Tregar ",
+		"category": [
+			"Alimentos y Bebidas",
+			"Frescos",
+			"Lácteos",
+			"Leches y Cremas",
+			"Leche"
+		],
+		"price": 532.21,
+		"stock": "(3310 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Tregar"
+							}
+						]
+					},
+					{
+						"title": "Registros de establecimiento",
+						"attributes": [
+							{
+								"id": "Número de Registro Nacional de Establecimiento (RNE)",
+								"text": "21-121333"
+							}
+						]
+					},
+					{
+						"title": "Registros de producto",
+						"attributes": [
+							{
+								"id": "Número de inscripción de producto (RNPA)",
+								"text": "21-067321"
+							},
+							{
+								"id": "Número de registro ante SENASA",
+								"text": "S-I-05112"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Nombre",
+								"text": "Leche UAT Descremada X 1 L"
+							},
+							{
+								"id": "Tipo de leche",
+								"text": "Descremada"
+							},
+							{
+								"id": "Formato de la leche",
+								"text": "Líquida"
+							},
+							{
+								"id": "Volumen neto",
+								"text": "1 L"
+							},
+							{
+								"id": "Peso neto",
+								"text": "1 kg"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "1 kg"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Caja"
+							},
+							{
+								"id": "Sabor",
+								"text": "Regular"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es libre de lactosa",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "Sí"
+							},
+							{
+								"id": "Es vegano",
+								"text": "No"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.7,
+				"amount": 125,
+				"subtitle": "(125)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA19939007?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "4.5",
+				"aria_label": "Calificación 4.5 de 5",
+				"rating_average_formatted": "4.7",
+				"formatted_rating_average": {
+					"text": "4.7"
+				},
+				"formatted_total": {
+					"text": "(125)"
+				},
+				"rating_stars": {
+					"value": 4.5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Más allá del sabor, que es decente, lo que más me gusta en realidad es el tapón con el que viene el cartón. Como lo consumo yo solo, me sirve que venga con esa opción. Además el tiempo que dura la leche cuando está abierta pero con tapa y en heladera por más que dure 3 días según la caja, lo he probado hasta 5 días y se conserva estupendamente. No se si microbiológicamente esté bien lo que hago, pero hasta ahora no tuve ningún problema sanitario jeje.\nLa fecha de vencimiento también es bastante extendida.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Muy rica y fácil de guardar al no necesitar heladera.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Muy buena calidad de leche descremada.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 478,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_671116-MLA49423023769_032022-O.webp"
+	},
+	{
+		"title": "Leche 0% Lactosa X 1 L Tregar",
+		"category": [
+			"Alimentos y Bebidas",
+			"Frescos",
+			"Lácteos",
+			"Leches y Cremas",
+			"Leche"
+		],
+		"price": 653.32,
+		"stock": "(359 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Tregar"
+							}
+						]
+					},
+					{
+						"title": "Registros de establecimiento",
+						"attributes": [
+							{
+								"id": "Número de Registro Nacional de Establecimiento (RNE)",
+								"text": "21-121358"
+							}
+						]
+					},
+					{
+						"title": "Registros de producto",
+						"attributes": [
+							{
+								"id": "Número de inscripción de producto (RNPA)",
+								"text": "21-067321"
+							},
+							{
+								"id": "Número de registro ante SENASA",
+								"text": "S-I-05112"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Nombre",
+								"text": "Leche UAT 0% Lactosa X 1 L"
+							},
+							{
+								"id": "Tipo de leche",
+								"text": "Lactosa"
+							},
+							{
+								"id": "Formato de la leche",
+								"text": "Líquida"
+							},
+							{
+								"id": "Volumen neto",
+								"text": "1 L"
+							},
+							{
+								"id": "Peso neto",
+								"text": "1 kg"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "1 kg"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Caja"
+							},
+							{
+								"id": "Sabor",
+								"text": "Regular"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es libre de lactosa",
+								"text": "Sí"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "Sí"
+							},
+							{
+								"id": "Es vegano",
+								"text": "No"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {},
+		"offer_price": 587,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_881651-MLU54965078961_042023-O.webp"
+	},
+	{
+		"title": "Leche Entera Larga Vida Tregar X 12 Unidades",
+		"price": 6457.1,
+		"stock": "(390 disponibles)",
+		"reviewsInfo": {},
+		"offer_price": 5811,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_823589-MLA53269717586_012023-O.webp"
+	},
+	{
+		"title": "Leche Entera Larga Vida X 1 L Tregar",
+		"category": [
+			"Alimentos y Bebidas",
+			"Frescos",
+			"Lácteos",
+			"Leches y Cremas",
+			"Leche"
+		],
+		"price": 555.54,
+		"stock": "(2255 disponibles)",
+		"description": "Las imágenes pueden ser ilustrativas.",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Tregar"
+							}
+						]
+					},
+					{
+						"title": "Registros de establecimiento",
+						"attributes": [
+							{
+								"id": "Número de Registro Nacional de Establecimiento (RNE)",
+								"text": "21-100648"
+							}
+						]
+					},
+					{
+						"title": "Registros de producto",
+						"attributes": [
+							{
+								"id": "Número de inscripción de producto (RNPA)",
+								"text": "21-067321"
+							},
+							{
+								"id": "Número de registro ante SENASA",
+								"text": "S-I-05112"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Nombre",
+								"text": "Leche UAT Entera X 1 L"
+							},
+							{
+								"id": "Tipo de leche",
+								"text": "Entera"
+							},
+							{
+								"id": "Formato de la leche",
+								"text": "Líquida"
+							},
+							{
+								"id": "Volumen neto",
+								"text": "1 L"
+							},
+							{
+								"id": "Peso neto",
+								"text": "1 kg"
+							},
+							{
+								"id": "Peso de la unidad",
+								"text": "1 kg"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Caja"
+							},
+							{
+								"id": "Sabor",
+								"text": "Regular"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Unidad"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "1"
+							},
+							{
+								"id": "Es libre de lactosa",
+								"text": "No"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "Sí"
+							},
+							{
+								"id": "Es vegano",
+								"text": "No"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 4.8,
+				"amount": 56,
+				"subtitle": "(56)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA19940197?noIndex=true&access=view_all&modal=true&controlled=true",
+					"timeout": 0,
+					"duration": 0
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "5.0",
+				"aria_label": "Calificación 5 de 5",
+				"rating_average_formatted": "4.8",
+				"formatted_rating_average": {
+					"text": "4.8"
+				},
+				"formatted_total": {
+					"text": "(56)"
+				},
+				"rating_stars": {
+					"value": 5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Bien precio calidad.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Calidad precio.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				},
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "A mí me gusta mucho la marca, en leche, dulce de leche y demás productos.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 499,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_964754-MLA52169279292_102022-O.webp"
+	},
+	{
+		"title": "Leche De Almendras Tratenfu Original X 8 Unidades",
+		"attributes": [
+					{
+						"title": "Características principales",
+						"attributes": [
+							{
+								"id": "Marca",
+								"text": "Tratenfu"
+							}
+						]
+					},
+					{
+						"title": "Otros",
+						"attributes": [
+							{
+								"id": "Línea",
+								"text": "tratenfu"
+							},
+							{
+								"id": "Nombre",
+								"text": "Tratenfu"
+							},
+							{
+								"id": "Tipo de leche",
+								"text": "Almendras"
+							},
+							{
+								"id": "Formato de la leche",
+								"text": "Líquida"
+							},
+							{
+								"id": "Volumen neto",
+								"text": "1 L"
+							},
+							{
+								"id": "Tipo de envase",
+								"text": "Caja"
+							},
+							{
+								"id": "Sabor",
+								"text": "Almendras"
+							},
+							{
+								"id": "Unidades por envase",
+								"text": "1"
+							},
+							{
+								"id": "Formato de venta",
+								"text": "Pack"
+							},
+							{
+								"id": "Unidades por pack",
+								"text": "8"
+							},
+							{
+								"id": "Es libre de lactosa",
+								"text": "Sí"
+							},
+							{
+								"id": "Es libre de gluten",
+								"text": "Sí"
+							},
+							{
+								"id": "Es vegano",
+								"text": "Sí"
+							},
+							{
+								"id": "Conservación del producto",
+								"text": "Temperatura ambiente"
+							},
+							{
+								"id": "Con impacto positivo",
+								"text": "Sí"
+							}
+						]
+					}
+				],
+		"reviewsInfo": {
+			"rating": {
+				"rating": 5,
+				"amount": 2,
+				"subtitle": "(2)",
+				"action": {
+					"target": "/noindex/catalog/reviews/MLA917743580?noIndex=true&access=view_all&modal=true",
+					"timeout": 0,
+					"duration": 0,
+					"track": {
+						"analytics_event": {
+							"section": "/VIP/ITEM/MAIN/",
+							"action": "VIEW_REVIEW_SHORT",
+							"category": "ITEM",
+							"label": "VIP"
+						}
+					}
+				},
+				"title": "Opiniones sobre Opiniones del producto",
+				"stars": "5.0",
+				"aria_label": "Calificación 5 de 5",
+				"rating_average_formatted": "5.0",
+				"formatted_rating_average": {
+					"text": "5.0"
+				},
+				"formatted_total": {
+					"text": "(2)"
+				},
+				"rating_stars": {
+					"value": 5
+				}
+			},
+			"reviews": [
+				{
+					"author": {
+						"name": "Usuario de Mercado Libre",
+						"@type": "Person"
+					},
+					"@type": "Review",
+					"reviewBody": "Excelente producto.",
+					"reviewRating": {
+						"bestRating": 5,
+						"ratingValue": 5,
+						"worstRating": 1
+					}
+				}
+			]
+		},
+		"offer_price": 15700,
+		"image": "https://http2.mlstatic.com/D_NQ_NP_625923-MLA71118501665_082023-O.webp"
+	}
+]
